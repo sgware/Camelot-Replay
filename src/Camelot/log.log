@@ -1,0 +1,1452 @@
+13:15:33.88843 2020-07-06	started SetCameraFocus(You)
+13:15:33.89343 2020-07-06	started SetCameraMode(follow)
+13:15:33.89647 2020-07-06	started EnableInput()
+13:15:33.96743 2020-07-06	succeeded SetCameraFocus(You)
+13:15:33.97043 2020-07-06	succeeded SetCameraMode(follow)
+13:15:33.97243 2020-07-06	succeeded EnableInput()
+13:15:33.97643 2020-07-06	input arrived You at (-1193.3, 0.1, -7.0)
+13:15:34.91302 2020-07-06	succeeded FadeIn()
+13:15:44.35317 2020-07-06	input Leave CastleCrossroads.Gate
+13:15:44.37918 2020-07-06	started WalkTo(You, CastleCrossroads.Gate)
+13:15:44.38317 2020-07-06	input started walking You at (-1193.3, 0.1, -7.0)
+13:15:44.38817 2020-07-06	input started walking You at (-1193.3, 0.1, -7.0)
+13:15:44.41117 2020-07-06	input started walking You at (-1193.3, 0.1, -7.0)
+13:15:45.96317 2020-07-06	input arrived You at (-1193.1, 0.1, -2.3)
+13:15:47.79826 2020-07-06	input arrived You position strange man
+13:15:47.97329 2020-07-06	input arrived You at (-1192.7, 0.1, 4.6)
+13:15:48.22864 2020-07-06	input arrived You position CastleCrossroads.Gate
+13:15:48.80403 2020-07-06	input exited You position strange man
+13:15:49.02301 2020-07-06	succeeded WalkTo(You, CastleCrossroads.Gate)
+13:15:49.04402 2020-07-06	started Exit(You, CastleCrossroads.Gate, true)
+13:15:52.98115 2020-07-06	input arrived You at (-1193.2, 0.2, 10.1)
+13:15:53.01815 2020-07-06	succeeded Exit(You, CastleCrossroads.Gate, true)
+13:15:53.03815 2020-07-06	started Enter(You, Courtyard.Exit, true)
+13:15:55.28103 2020-07-06	input stopped walking You at (914.3, -3.3, -5.9)
+13:15:55.33503 2020-07-06	input arrived You at (914.3, -3.3, -5.9)
+13:15:55.74603 2020-07-06	succeeded Enter(You, Courtyard.Exit, true)
+13:15:55.81604 2020-07-06	started SetPosition(strange man, )
+13:15:55.82403 2020-07-06	started DisableEffect(CastleCrossroads.Gate)
+13:15:55.83004 2020-07-06	started SetPosition(Guard1, GreatHall.LeftGuard)
+13:15:55.84003 2020-07-06	started SetPosition(Guard2, GreatHall.RightGuard)
+13:15:55.84908 2020-07-06	started DisableIcon(Talk, Guard1)
+13:15:55.85408 2020-07-06	started DisableIcon(Talk, Guard2)
+13:15:55.85803 2020-07-06	started SetPosition(Emmilia, Library)
+13:15:55.86708 2020-07-06	started PlaySound(Spooky, Ruins, true)
+13:15:55.87308 2020-07-06	started PlaySound(River, Courtyard.Fountain, true)
+13:15:55.87707 2020-07-06	started PlaySound(Forest_Day, SpookyPath, true)
+13:15:55.88108 2020-07-06	started PlaySound(Kingdom, GreatHall, true)
+13:15:55.88507 2020-07-06	started PlaySound(Explorer, Dungeon, true)
+13:15:55.88903 2020-07-06	started PlaySound(LivelyMusic, CastleCrossroads, true)
+13:15:55.89307 2020-07-06	started PlaySound(LivelyMusic, Courtyard, true)
+13:15:55.89607 2020-07-06	started PlaySound(Serenity, Library, true)
+13:15:55.94903 2020-07-06	succeeded DisableEffect(CastleCrossroads.Gate)
+13:15:55.95407 2020-07-06	succeeded DisableIcon(Talk, Guard1)
+13:15:55.95603 2020-07-06	succeeded DisableIcon(Talk, Guard2)
+13:15:55.96007 2020-07-06	succeeded PlaySound(Spooky, Ruins, true)
+13:15:55.96303 2020-07-06	succeeded PlaySound(River, Courtyard.Fountain, true)
+13:15:55.96609 2020-07-06	succeeded PlaySound(Forest_Day, SpookyPath, true)
+13:15:55.96803 2020-07-06	succeeded PlaySound(Kingdom, GreatHall, true)
+13:15:55.97103 2020-07-06	succeeded PlaySound(Explorer, Dungeon, true)
+13:15:55.97403 2020-07-06	succeeded PlaySound(LivelyMusic, CastleCrossroads, true)
+13:15:55.97703 2020-07-06	succeeded PlaySound(LivelyMusic, Courtyard, true)
+13:15:55.97903 2020-07-06	succeeded PlaySound(Serenity, Library, true)
+13:15:56.69933 2020-07-06	succeeded SetPosition(strange man, )
+13:15:56.70233 2020-07-06	succeeded SetPosition(Guard1, GreatHall.LeftGuard)
+13:15:56.70433 2020-07-06	succeeded SetPosition(Guard2, GreatHall.RightGuard)
+13:15:56.70734 2020-07-06	succeeded SetPosition(Emmilia, Library)
+13:15:57.20033 2020-07-06	input Leave Courtyard.Gate
+13:15:57.24133 2020-07-06	started WalkTo(You, Courtyard.Gate)
+13:15:57.24734 2020-07-06	input started walking You at (914.3, -3.3, -5.9)
+13:15:57.25133 2020-07-06	input started walking You at (914.3, -3.3, -5.9)
+13:15:57.29433 2020-07-06	input started walking You at (914.8, -3.3, -5.9)
+13:15:57.36333 2020-07-06	input arrived You at (914.8, -3.3, -5.9)
+13:15:59.38404 2020-07-06	input arrived You at (909.0, -3.3, -5.9)
+13:16:00.45604 2020-07-06	input arrived You position Courtyard.Fountain
+13:16:01.41708 2020-07-06	input arrived You at (904.3, -3.3, -4.3)
+13:16:01.64708 2020-07-06	input exited You position Courtyard.Fountain
+13:16:03.44100 2020-07-06	input arrived You at (898.4, -3.3, -4.6)
+13:16:04.61800 2020-07-06	input arrived You position Courtyard.Gate.In
+13:16:05.07401 2020-07-06	input arrived You position Courtyard.Gate
+13:16:05.07801 2020-07-06	input exited You position Courtyard.Gate.In
+13:16:05.47102 2020-07-06	input arrived You at (891.6, -3.3, -6.6)
+13:16:05.74953 2020-07-06	succeeded WalkTo(You, Courtyard.Gate)
+13:16:05.78354 2020-07-06	started Exit(You, Courtyard.Gate, true)
+13:16:12.49502 2020-07-06	input arrived You at (887.6, -3.3, -6.8)
+13:16:12.62902 2020-07-06	succeeded Exit(You, Courtyard.Gate, true)
+13:16:12.67102 2020-07-06	started Enter(You, GreatHall.Gate, true)
+13:16:13.04002 2020-07-06	input arrived You position GreatHall.Gate.Out
+13:16:16.68506 2020-07-06	input arrived You position GreatHall.Gate
+13:16:16.69007 2020-07-06	input arrived You position GreatHall.Gate.In
+13:16:16.76807 2020-07-06	input stopped walking You at (585.2, 2.6, -15.0)
+13:16:16.79307 2020-07-06	input arrived You at (585.2, 2.7, -15.0)
+13:16:16.81706 2020-07-06	input exited You position GreatHall.Gate
+13:16:16.82207 2020-07-06	input exited You position GreatHall.Gate.In
+13:16:17.09206 2020-07-06	input arrived You position GreatHall.Gate
+13:16:17.49106 2020-07-06	succeeded Enter(You, GreatHall.Gate, true)
+13:16:17.52207 2020-07-06	started EnableIcon(TravelGreatHall, Castle, Courtyard.Horse, Travel to the GreatHall, false)
+13:16:17.55306 2020-07-06	succeeded EnableIcon(TravelGreatHall, Castle, Courtyard.Horse, Travel to the GreatHall, false)
+13:16:17.70270 2020-07-06	input exited You position GreatHall.Gate
+13:16:19.67838 2020-07-06	input arrived You position GreatHall.Gate
+13:16:20.10437 2020-07-06	input exited You position GreatHall.Gate
+13:16:20.22937 2020-07-06	input started walking You at (585.2, 2.7, -15.0)
+13:16:20.27137 2020-07-06	input started walking You at (585.2, 2.7, -15.4)
+13:16:20.29338 2020-07-06	input arrived You position GreatHall.Gate
+13:16:20.81837 2020-07-06	input arrived You at (584.2, 2.7, -15.0)
+13:16:20.92537 2020-07-06	input exited You position GreatHall.Gate
+13:16:22.82195 2020-07-06	input arrived You at (578.9, 2.7, -10.6)
+13:16:24.83438 2020-07-06	input arrived You at (576.7, 5.8, -5.8)
+13:16:26.84521 2020-07-06	input arrived You at (580.0, 7.6, -0.9)
+13:16:26.95920 2020-07-06	input arrived You position GreatHall.LeftSupplicant
+13:16:27.78420 2020-07-06	input exited You position GreatHall.LeftSupplicant
+13:16:28.21420 2020-07-06	input arrived You position GreatHall.Supplicant
+13:16:28.47420 2020-07-06	input exited You position GreatHall.Supplicant
+13:16:28.77620 2020-07-06	input stopped walking You at (585.0, 7.6, 2.2)
+13:16:28.85120 2020-07-06	input arrived You at (585.0, 7.6, 2.2)
+13:16:29.32056 2020-07-06	input Talk Lionheart The Just
+13:16:29.34756 2020-07-06	started SetLeft(You)
+13:16:29.36808 2020-07-06	started SetRight(Lionheart The Just)
+13:16:29.37708 2020-07-06	started WalkTo(You, Lionheart The Just)
+13:16:29.38308 2020-07-06	input started walking You at (585.0, 7.6, 2.2)
+13:16:29.38908 2020-07-06	input started walking You at (585.0, 7.6, 2.2)
+13:16:29.41608 2020-07-06	succeeded SetLeft(You)
+13:16:29.42208 2020-07-06	succeeded SetRight(Lionheart The Just)
+13:16:29.42808 2020-07-06	input started walking You at (585.0, 7.6, 2.2)
+13:16:30.27916 2020-07-06	input arrived You position Lionheart The Just
+13:16:30.28416 2020-07-06	succeeded WalkTo(You, Lionheart The Just)
+13:16:30.31316 2020-07-06	started SetDialog("Greetings and welcome to my humble dominion. I do appreciate your courtesy to come and pay your respects to me first.\n[nochoice|Your guards left me not much of a choice]\n[nochoice|(Say nothing)]")
+13:16:30.33816 2020-07-06	succeeded SetDialog("Greetings and welcome to my humble dominion. I do appreciate your courtesy to come and pay your respects to me first.\n[nochoice|Your guards left me not much of a choice]\n[nochoice|(Say nothing)]")
+13:16:30.37611 2020-07-06	started ShowDialog()
+13:16:30.54410 2020-07-06	succeeded ShowDialog()
+13:16:31.79519 2020-07-06	input Selected nochoice
+13:16:31.82719 2020-07-06	started ClearDialog()
+13:16:31.86618 2020-07-06	succeeded ClearDialog()
+13:16:31.90318 2020-07-06	started SetDialog("I suppose you desire to pledge allegience to me. But please, be patient with me. First, I have a request for you\n[lionheartrequest|Next]")
+13:16:31.93318 2020-07-06	succeeded SetDialog("I suppose you desire to pledge allegience to me. But please, be patient with me. First, I have a request for you\n[lionheartrequest|Next]")
+13:16:33.14870 2020-07-06	input Selected lionheartrequest
+13:16:33.17371 2020-07-06	started ClearDialog()
+13:16:33.19770 2020-07-06	succeeded ClearDialog()
+13:16:33.23770 2020-07-06	started EnableIcon(Take, hand, Forging Hammer, Take, true)
+13:16:33.24570 2020-07-06	started DisableIcon(Inspect, Forging Hammer)
+13:16:33.25271 2020-07-06	started SetDialog("My people have been complaining about a vicious bandit roaming the eastern premises. Not only does he steal from the people in need, he shows no mercy to the helpless.\nHowever, the east is outside my dominion and thus I ask you to put an end to this predicament.\n[lionheartaccepted1|I'll see what I can do]")
+13:16:33.30370 2020-07-06	succeeded EnableIcon(Take, hand, Forging Hammer, Take, true)
+13:16:33.30770 2020-07-06	succeeded DisableIcon(Inspect, Forging Hammer)
+13:16:33.31170 2020-07-06	succeeded SetDialog("My people have been complaining about a vicious bandit roaming the eastern premises. Not only does he steal from the people in need, he shows no mercy to the helpless.\nHowever, the east is outside my dominion and thus I ask you to put an end to this predicament.\n[lionheartaccepted1|I'll see what I can do]")
+13:16:34.02773 2020-07-06	input Selected lionheartaccepted1
+13:16:34.05373 2020-07-06	started ClearDialog()
+13:16:34.07773 2020-07-06	succeeded ClearDialog()
+13:16:34.10374 2020-07-06	started SetDialog("You have my gratitude! All I ask is for you to consider this favor.\nVisit the blacksmith and tell him that I sent you. He will grant you a worthy sword for you to wield.\n[leave|Leave]")
+13:16:34.13674 2020-07-06	succeeded SetDialog("You have my gratitude! All I ask is for you to consider this favor.\nVisit the blacksmith and tell him that I sent you. He will grant you a worthy sword for you to wield.\n[leave|Leave]")
+13:16:34.86725 2020-07-06	input Selected leave
+13:16:34.89926 2020-07-06	started HideDialog()
+13:16:34.90626 2020-07-06	started EnableInput()
+13:16:34.91025 2020-07-06	started StopSound()
+13:16:34.93825 2020-07-06	succeeded HideDialog()
+13:16:34.94326 2020-07-06	succeeded EnableInput()
+13:16:34.94625 2020-07-06	succeeded StopSound()
+13:16:34.95126 2020-07-06	input arrived You at (585.2, 8.0, 3.7)
+13:16:35.28817 2020-07-06	input arrived You position GreatHall.Throne
+13:16:35.53408 2020-07-06	input exited You position GreatHall.Throne
+13:16:36.27117 2020-07-06	input started walking You at (585.2, 8.0, 3.7)
+13:16:36.27518 2020-07-06	input stopped walking You at (585.2, 8.0, 3.7)
+13:16:36.30717 2020-07-06	input started walking You at (585.7, 8.0, 3.7)
+13:16:36.34417 2020-07-06	input exited You position Lionheart The Just
+13:16:36.94150 2020-07-06	input arrived You at (584.6, 7.6, 2.6)
+13:16:38.96601 2020-07-06	input arrived You at (578.6, 7.6, -0.4)
+13:16:40.99254 2020-07-06	input arrived You at (577.1, 5.6, -6.1)
+13:16:43.00665 2020-07-06	input arrived You at (578.9, 2.7, -11.6)
+13:16:45.01787 2020-07-06	input arrived You at (577.3, 2.8, -10.1)
+13:16:46.86388 2020-07-06	input stopped walking You at (576.7, 6.3, -5.2)
+13:16:47.03887 2020-07-06	input arrived You at (576.7, 6.3, -5.2)
+13:16:47.38587 2020-07-06	input started walking You at (576.7, 6.3, -5.2)
+13:16:47.42787 2020-07-06	input started walking You at (576.7, 6.3, -5.2)
+13:16:49.05568 2020-07-06	input arrived You at (574.4, 7.6, -1.5)
+13:16:50.13868 2020-07-06	input stopped walking You at (570.7, 7.6, -1.4)
+13:16:50.61769 2020-07-06	input Leave GreatHall.LeftDoor
+13:16:50.64668 2020-07-06	started WalkTo(You, GreatHall.LeftDoor)
+13:16:50.65168 2020-07-06	input started walking You at (570.7, 7.6, -1.4)
+13:16:50.65569 2020-07-06	input started walking You at (570.7, 7.6, -1.4)
+13:16:50.70820 2020-07-06	input started walking You at (570.7, 7.6, -1.4)
+13:16:51.07319 2020-07-06	input arrived You at (570.3, 7.6, -1.9)
+13:16:51.91489 2020-07-06	succeeded WalkTo(You, GreatHall.LeftDoor)
+13:16:51.96489 2020-07-06	started Exit(You, GreatHall.LeftDoor, true)
+13:16:57.67354 2020-07-06	input arrived You position GreatHall.LeftDoor.Out
+13:16:59.09255 2020-07-06	input arrived You at (566.4, 7.4, -3.8)
+13:16:59.16054 2020-07-06	succeeded Exit(You, GreatHall.LeftDoor, true)
+13:16:59.20254 2020-07-06	started Enter(You, Blacksmith.Door, true)
+13:16:59.49655 2020-07-06	input arrived You position Blacksmith.Door.Out
+13:16:59.50055 2020-07-06	input exited You position GreatHall.LeftDoor.Out
+13:17:02.89722 2020-07-06	input arrived You position Blacksmith.Door.In
+13:17:03.01822 2020-07-06	input stopped walking You at (299.4, 0.0, -0.3)
+13:17:03.05222 2020-07-06	input arrived You at (299.4, 0.1, -0.3)
+13:17:03.09523 2020-07-06	input exited You position Blacksmith.Door.In
+13:17:03.97373 2020-07-06	succeeded Enter(You, Blacksmith.Door, true)
+13:17:04.00973 2020-07-06	started EnableIcon(TravelBlacksmith, Anvil, Courtyard.Horse, Travel to the Blacksmith, false)
+13:17:04.07275 2020-07-06	succeeded EnableIcon(TravelBlacksmith, Anvil, Courtyard.Horse, Travel to the Blacksmith, false)
+13:17:05.70232 2020-07-06	input Take Forging Hammer
+13:17:05.74430 2020-07-06	started DisableIcon(Take, Forging Hammer)
+13:17:05.75031 2020-07-06	started Take(You, Forging Hammer)
+13:17:05.78931 2020-07-06	succeeded DisableIcon(Take, Forging Hammer)
+13:17:05.82182 2020-07-06	input started walking You at (299.4, 0.1, -0.3)
+13:17:05.85682 2020-07-06	input started walking You at (299.5, 0.1, -0.8)
+13:17:05.92531 2020-07-06	input arrived You position Blacksmith.Door.In
+13:17:06.53931 2020-07-06	input exited You position Blacksmith.Door.In
+13:17:07.08535 2020-07-06	input arrived You position Blacksmith.Table
+13:17:07.41735 2020-07-06	input exited You position Blacksmith.Table
+13:17:08.07835 2020-07-06	input arrived You position Blacksmith.Table
+13:17:08.10134 2020-07-06	input exited You position Blacksmith.Table
+13:17:08.27935 2020-07-06	input arrived You position Blacksmith.Table
+13:17:08.33337 2020-07-06	input exited You position Blacksmith.Table
+13:17:10.69207 2020-07-06	input arrived You at (296.5, 0.1, 2.3)
+13:17:10.74007 2020-07-06	succeeded Take(You, Forging Hammer)
+13:17:10.77306 2020-07-06	started Pocket(You, Forging Hammer)
+13:17:11.71607 2020-07-06	succeeded Pocket(You, Forging Hammer)
+13:17:11.75606 2020-07-06	started SetNarration(Press I to open your inventory)
+13:17:11.76106 2020-07-06	started ShowNarration()
+13:17:11.76706 2020-07-06	started EnableIcon(Put, forge, Blacksmith.Anvil, Put the hammer on the anvil, true)
+13:17:11.80306 2020-07-06	succeeded SetNarration(Press I to open your inventory)
+13:17:11.80907 2020-07-06	succeeded ShowNarration()
+13:17:11.81506 2020-07-06	succeeded EnableIcon(Put, forge, Blacksmith.Anvil, Put the hammer on the anvil, true)
+13:17:13.03558 2020-07-06	input Close Narration
+13:17:13.06158 2020-07-06	started HideNarration()
+13:17:13.08559 2020-07-06	succeeded HideNarration()
+13:17:14.44459 2020-07-06	input Put Blacksmith.Anvil
+13:17:14.48259 2020-07-06	started EnableIcon(Take, hand, A Sturdy Sword, Take, true)
+13:17:14.48859 2020-07-06	started Put(You, Forging Hammer, Blacksmith.Anvil)
+13:17:14.51959 2020-07-06	failed EnableIcon(Take, hand, A Sturdy Sword, Take, true) "An icon with the same name has already been enabled for this object"
+13:17:14.54860 2020-07-06	input started walking You at (296.5, 0.1, 2.3)
+13:17:14.55459 2020-07-06	input stopped walking You at (296.5, 0.1, 2.3)
+13:17:14.57859 2020-07-06	input started walking You at (296.5, 0.1, 2.3)
+13:17:14.62359 2020-07-06	input arrived You position Blacksmith.Table
+13:17:15.09559 2020-07-06	input exited You position Blacksmith.Table
+13:17:15.18359 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:15.18859 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:15.55859 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:15.56460 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:15.67859 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:15.68259 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:15.73559 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:15.73859 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:18.89111 2020-07-06	input arrived You at (296.3, 0.1, 0.0)
+13:17:18.94811 2020-07-06	succeeded Put(You, Forging Hammer, Blacksmith.Anvil)
+13:17:18.97911 2020-07-06	started DisableInput()
+13:17:18.98312 2020-07-06	started FadeOut()
+13:17:19.02811 2020-07-06	succeeded DisableInput()
+13:17:20.02811 2020-07-06	succeeded FadeOut()
+13:17:20.06611 2020-07-06	started PlaySound(Sheathe)
+13:17:20.13011 2020-07-06	succeeded PlaySound(Sheathe)
+13:17:21.04111 2020-07-06	started PlaySound(Sheathe)
+13:17:21.08411 2020-07-06	succeeded PlaySound(Sheathe)
+13:17:22.06411 2020-07-06	started PlaySound(Fireball)
+13:17:22.10111 2020-07-06	succeeded PlaySound(Fireball)
+13:17:23.05211 2020-07-06	started PlaySound(Draw)
+13:17:23.05611 2020-07-06	started SetPosition(Forging Hammer)
+13:17:23.06511 2020-07-06	started SetPosition(A Sturdy Sword, Blacksmith.Anvil)
+13:17:23.07611 2020-07-06	started DisableIcon(Put, Blacksmith.Anvil)
+13:17:23.07911 2020-07-06	started FadeIn()
+13:17:23.10711 2020-07-06	succeeded PlaySound(Draw)
+13:17:23.11411 2020-07-06	succeeded DisableIcon(Put, Blacksmith.Anvil)
+13:17:23.84212 2020-07-06	succeeded SetPosition(Forging Hammer)
+13:17:23.84612 2020-07-06	succeeded SetPosition(A Sturdy Sword, Blacksmith.Anvil)
+13:17:24.06813 2020-07-06	succeeded FadeIn()
+13:17:24.09515 2020-07-06	started EnableInput()
+13:17:24.12112 2020-07-06	succeeded EnableInput()
+13:17:24.80213 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:17:24.83913 2020-07-06	input started walking You at (296.3, 0.1, -0.4)
+13:17:24.84313 2020-07-06	input stopped walking You at (296.3, 0.1, -0.4)
+13:17:24.87512 2020-07-06	input started walking You at (296.3, 0.1, -0.4)
+13:17:24.91812 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:24.92213 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:24.94812 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:24.95312 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:24.98013 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:24.98313 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:25.39912 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:25.40412 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:25.46812 2020-07-06	input stopped walking You at (296.7, 0.1, -1.1)
+13:17:26.13871 2020-07-06	input arrived You at (296.7, 0.1, -1.1)
+13:17:29.44325 2020-07-06	input Take A Sturdy Sword
+13:17:29.47725 2020-07-06	started DisableIcon(Take, A Sturdy Sword)
+13:17:29.48225 2020-07-06	started Take(You, A Sturdy Sword)
+13:17:29.51925 2020-07-06	succeeded DisableIcon(Take, A Sturdy Sword)
+13:17:29.56625 2020-07-06	input started walking You at (296.7, 0.1, -1.1)
+13:17:29.62225 2020-07-06	input started walking You at (296.7, 0.1, -1.1)
+13:17:29.74525 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:29.75025 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:30.27225 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:30.27625 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:31.21382 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:31.21881 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:31.30281 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:31.30681 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:34.39913 2020-07-06	input arrived You at (296.3, 0.1, 0.0)
+13:17:34.47313 2020-07-06	succeeded Take(You, A Sturdy Sword)
+13:17:34.50613 2020-07-06	started Pocket(You, A Sturdy Sword)
+13:17:35.48213 2020-07-06	succeeded Pocket(You, A Sturdy Sword)
+13:17:35.51813 2020-07-06	started EnableIcon(Attack, sword, Bandit, Kill the bandit, false)
+13:17:35.52313 2020-07-06	started EnableIcon(Practice, swords, Blacksmith.Target, Practice swordmanship, false)
+13:17:35.52713 2020-07-06	started EnableIcon(Practice, swords, Courtyard.Target, Practice swordmanship, false)
+13:17:35.56113 2020-07-06	succeeded EnableIcon(Attack, sword, Bandit, Kill the bandit, false)
+13:17:35.56513 2020-07-06	succeeded EnableIcon(Practice, swords, Blacksmith.Target, Practice swordmanship, false)
+13:17:35.56913 2020-07-06	succeeded EnableIcon(Practice, swords, Courtyard.Target, Practice swordmanship, false)
+13:17:36.90715 2020-07-06	input Leave Blacksmith.Door
+13:17:36.96115 2020-07-06	started WalkTo(You, Blacksmith.Door)
+13:17:36.96415 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:17:36.96915 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:17:36.97316 2020-07-06	input stopped walking You at (296.3, 0.1, 0.0)
+13:17:37.02215 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:17:37.14115 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:17:37.14515 2020-07-06	input arrived You position Blacksmith.Anvil
+13:17:37.55815 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:17:37.56215 2020-07-06	input exited You position Blacksmith.Anvil
+13:17:37.98015 2020-07-06	input arrived You position Blacksmith.Door.In
+13:17:38.39915 2020-07-06	input exited You position Blacksmith.Door.In
+13:17:38.48415 2020-07-06	input arrived You at (300.7, 0.1, -0.3)
+13:17:38.66515 2020-07-06	input arrived You position Blacksmith.Door
+13:17:38.81215 2020-07-06	input exited You position Blacksmith.Door
+13:17:38.82215 2020-07-06	succeeded WalkTo(You, Blacksmith.Door)
+13:17:38.94015 2020-07-06	started Exit(You, Blacksmith.Door, true)
+13:17:40.18315 2020-07-06	input arrived You position Blacksmith.Door
+13:17:40.31815 2020-07-06	input exited You position Blacksmith.Door
+13:17:45.49521 2020-07-06	input arrived You position Blacksmith.Door.Out
+13:17:47.17121 2020-07-06	input arrived You at (303.6, 0.0, -0.3)
+13:17:47.33221 2020-07-06	succeeded Exit(You, Blacksmith.Door, true)
+13:17:47.38521 2020-07-06	started Enter(You, GreatHall.LeftDoor, true)
+13:17:47.85521 2020-07-06	input arrived You position GreatHall.LeftDoor.Out
+13:17:47.85921 2020-07-06	input exited You position Blacksmith.Door.Out
+13:17:51.26553 2020-07-06	input arrived You position GreatHall.LeftDoor.In
+13:17:51.52154 2020-07-06	input arrived You at (570.6, 7.6, -3.8)
+13:17:51.52654 2020-07-06	input stopped walking You at (570.6, 7.6, -3.8)
+13:17:51.59653 2020-07-06	input exited You position GreatHall.LeftDoor.In
+13:17:51.60453 2020-07-06	input started walking You at (570.6, 7.6, -3.8)
+13:17:51.70754 2020-07-06	input started walking You at (570.6, 7.6, -3.8)
+13:17:52.35526 2020-07-06	input started walking You at (572.0, 7.6, -2.9)
+13:17:52.36025 2020-07-06	input stopped walking You at (572.0, 7.6, -2.9)
+13:17:52.48525 2020-07-06	input started walking You at (572.0, 7.6, -2.9)
+13:17:52.80126 2020-07-06	succeeded Enter(You, GreatHall.LeftDoor, true)
+13:17:53.53030 2020-07-06	input arrived You at (574.5, 7.6, -1.7)
+13:17:54.50936 2020-07-06	input stopped walking You at (576.2, 7.3, -3.9)
+13:17:55.53447 2020-07-06	input arrived You at (576.2, 7.3, -3.9)
+13:17:55.95647 2020-07-06	input Leave GreatHall.Gate
+13:17:55.98847 2020-07-06	started WalkTo(You, GreatHall.Gate)
+13:17:55.99347 2020-07-06	input started walking You at (576.2, 7.3, -3.9)
+13:17:55.99847 2020-07-06	input started walking You at (576.2, 7.3, -3.9)
+13:17:56.02947 2020-07-06	input started walking You at (576.2, 7.3, -3.9)
+13:17:57.54020 2020-07-06	input arrived You at (576.9, 4.4, -7.7)
+13:17:59.55429 2020-07-06	input arrived You at (580.6, 2.7, -12.6)
+13:18:00.77829 2020-07-06	input arrived You position GreatHall.Gate
+13:18:01.37430 2020-07-06	succeeded WalkTo(You, GreatHall.Gate)
+13:18:01.40029 2020-07-06	started Exit(You, GreatHall.Gate, true)
+13:18:06.83332 2020-07-06	input arrived You at (585.2, 2.6, -19.8)
+13:18:06.88332 2020-07-06	succeeded Exit(You, GreatHall.Gate, true)
+13:18:06.91333 2020-07-06	started Enter(You, Courtyard.Gate, true)
+13:18:07.09232 2020-07-06	input arrived You position Courtyard.Gate.Out
+13:18:12.19121 2020-07-06	input arrived You position Courtyard.Gate.In
+13:18:12.37921 2020-07-06	input stopped walking You at (893.7, -3.4, -6.7)
+13:18:12.43221 2020-07-06	input started walking You at (893.7, -3.3, -6.7)
+13:18:12.43621 2020-07-06	input arrived You at (893.7, -3.3, -6.7)
+13:18:12.47721 2020-07-06	input exited You position Courtyard.Gate.In
+13:18:12.48321 2020-07-06	input started walking You at (893.7, -3.3, -6.7)
+13:18:12.61721 2020-07-06	input arrived You position Courtyard.Gate.In
+13:18:13.05023 2020-07-06	input started walking You at (894.7, -3.3, -6.6)
+13:18:13.05521 2020-07-06	input stopped walking You at (894.7, -3.3, -6.6)
+13:18:13.09721 2020-07-06	input exited You position Courtyard.Gate.In
+13:18:13.10621 2020-07-06	input started walking You at (894.7, -3.3, -6.6)
+13:18:13.19220 2020-07-06	input arrived You position Courtyard.Gate.In
+13:18:13.35221 2020-07-06	input exited You position Courtyard.Gate.In
+13:18:13.35721 2020-07-06	succeeded Enter(You, Courtyard.Gate, true)
+13:18:14.47815 2020-07-06	input arrived You at (897.5, -3.3, -7.9)
+13:18:16.49116 2020-07-06	input arrived You at (903.7, -3.3, -10.4)
+13:18:17.16316 2020-07-06	input arrived You position Courtyard.Fountain
+13:18:17.71669 2020-07-06	input exited You position Courtyard.Fountain
+13:18:18.50969 2020-07-06	input arrived You at (909.7, -3.3, -7.4)
+13:18:20.50858 2020-07-06	input arrived You position Courtyard.Exit
+13:18:20.51861 2020-07-06	started Exit(You, Courtyard.Exit, true)
+13:18:22.40102 2020-07-06	input arrived You at (920.1, -3.3, -6.1)
+13:18:22.48902 2020-07-06	succeeded Exit(You, Courtyard.Exit, true)
+13:18:22.53301 2020-07-06	started Enter(You, CastleCrossroads.Gate, true)
+13:18:22.86901 2020-07-06	input arrived You position CastleCrossroads.Gate.Out
+13:18:25.65559 2020-07-06	input arrived You position CastleCrossroads.Gate
+13:18:25.78959 2020-07-06	input started walking You at (-1193.2, 0.1, 6.8)
+13:18:25.79459 2020-07-06	input arrived You at (-1193.2, 0.1, 6.8)
+13:18:25.79859 2020-07-06	input stopped walking You at (-1193.2, 0.1, 6.8)
+13:18:25.83359 2020-07-06	input started walking You at (-1193.2, 0.1, 6.8)
+13:18:26.52341 2020-07-06	input started walking You at (-1193.2, 0.1, 5.1)
+13:18:26.57040 2020-07-06	input started walking You at (-1193.2, 0.1, 5.1)
+13:18:26.57440 2020-07-06	input stopped walking You at (-1193.2, 0.1, 5.1)
+13:18:26.60641 2020-07-06	input started walking You at (-1193.2, 0.1, 5.0)
+13:18:26.72543 2020-07-06	succeeded Enter(You, CastleCrossroads.Gate, true)
+13:18:26.75742 2020-07-06	input exited You position CastleCrossroads.Gate
+13:18:27.80197 2020-07-06	input arrived You at (-1193.2, 0.1, 1.4)
+13:18:29.81049 2020-07-06	input arrived You at (-1194.1, 0.1, -5.3)
+13:18:30.34716 2020-07-06	input arrived You position CastleCrossroads.Left
+13:18:30.95316 2020-07-06	input exited You position CastleCrossroads.Left
+13:18:31.82492 2020-07-06	input arrived You at (-1200.0, 0.1, -8.5)
+13:18:32.10592 2020-07-06	input arrived You position CastleCrossroads.EastSign
+13:18:32.63992 2020-07-06	input exited You position CastleCrossroads.EastSign
+13:18:32.64394 2020-07-06	input arrived You position CastleCrossroads.EastEnd
+13:18:32.64894 2020-07-06	started Exit(You, CastleCrossroads.EastEnd, true)
+13:18:32.75993 2020-07-06	input exited You position CastleCrossroads.EastEnd
+13:18:34.08842 2020-07-06	input started walking You at (-1205.2, 0.0, -12.4)
+13:18:34.09242 2020-07-06	input arrived You at (-1205.2, 0.0, -12.4)
+13:18:34.12142 2020-07-06	input started walking You at (-1204.0, 0.1, -10.5)
+13:18:34.14694 2020-07-06	succeeded Exit(You, CastleCrossroads.EastEnd, true)
+13:18:34.17594 2020-07-06	started Enter(You, SpookyPath.EastEnd, true)
+13:18:36.77871 2020-07-06	input stopped walking You at (2099.6, 0.0, 14.8)
+13:18:36.81971 2020-07-06	input started walking You at (2099.6, 0.1, 14.8)
+13:18:36.82471 2020-07-06	input arrived You at (2099.6, 0.1, 14.8)
+13:18:36.87271 2020-07-06	input started walking You at (2099.6, 0.1, 14.8)
+13:18:36.91371 2020-07-06	input started walking You at (2099.6, 0.1, 14.8)
+13:18:36.91971 2020-07-06	input stopped walking You at (2099.6, 0.1, 14.8)
+13:18:36.97471 2020-07-06	input started walking You at (2099.6, 0.1, 14.8)
+13:18:37.16771 2020-07-06	succeeded Enter(You, SpookyPath.EastEnd, true)
+13:18:38.84209 2020-07-06	input arrived You at (2100.4, 0.1, 9.2)
+13:18:40.13053 2020-07-06	input stopped walking You at (2099.1, 0.1, 5.5)
+13:18:40.90956 2020-07-06	input arrived You at (2099.1, 0.1, 5.5)
+13:18:43.92413 2020-07-06	input Attack Bandit
+13:18:43.99311 2020-07-06	started WalkTo(You, Bandit)
+13:18:43.99811 2020-07-06	input started walking You at (2099.1, 0.1, 5.5)
+13:18:44.00311 2020-07-06	input started walking You at (2099.1, 0.1, 5.5)
+13:18:44.07811 2020-07-06	input started walking You at (2099.1, 0.1, 5.5)
+13:18:46.00125 2020-07-06	input arrived You at (2093.3, 0.1, 4.2)
+13:18:46.22024 2020-07-06	input arrived You position SpookyPath.Well
+13:18:46.22424 2020-07-06	input arrived You position Bandit
+13:18:46.23424 2020-07-06	succeeded WalkTo(You, Bandit)
+13:18:46.30324 2020-07-06	started DisableInput()
+13:18:46.30724 2020-07-06	started Draw(You, A Sturdy Sword)
+13:18:46.42524 2020-07-06	succeeded DisableInput()
+13:18:46.87324 2020-07-06	input exited You position SpookyPath.Well
+13:18:46.93924 2020-07-06	input arrived You position SpookyPath.Well
+13:18:47.25724 2020-07-06	input exited You position SpookyPath.Well
+13:18:47.41324 2020-07-06	input exited You position Bandit
+13:18:47.70676 2020-07-06	input arrived You position Bandit
+13:18:47.78375 2020-07-06	input exited You position Bandit
+13:18:47.95175 2020-07-06	input arrived You position Bandit
+13:18:47.95576 2020-07-06	input arrived You position SpookyPath.Well
+13:18:48.15675 2020-07-06	input exited You position SpookyPath.Well
+13:18:48.68175 2020-07-06	succeeded Draw(You, A Sturdy Sword)
+13:18:48.76776 2020-07-06	started Attack(You, Bandit)
+13:18:49.17575 2020-07-06	input arrived You position SpookyPath.Well
+13:18:50.27440 2020-07-06	input exited You position SpookyPath.Well
+13:18:50.41140 2020-07-06	input arrived You position SpookyPath.Well
+13:18:50.59040 2020-07-06	input exited You position SpookyPath.Well
+13:18:51.90639 2020-07-06	input exited You position Bandit
+13:18:52.29939 2020-07-06	input arrived You position Bandit
+13:18:52.30439 2020-07-06	input arrived You position SpookyPath.Well
+13:18:52.51639 2020-07-06	input exited You position SpookyPath.Well
+13:18:52.58739 2020-07-06	input exited You position Bandit
+13:18:53.24790 2020-07-06	input arrived You position Bandit
+13:18:54.17283 2020-07-06	succeeded Attack(You, Bandit)
+13:18:54.27183 2020-07-06	started Sheathe(You, A Sturdy Sword)
+13:18:54.27883 2020-07-06	started SetExpression(Bandit, scared)
+13:18:54.28383 2020-07-06	started Die(Bandit)
+13:18:54.40534 2020-07-06	succeeded SetExpression(Bandit, scared)
+13:18:54.62434 2020-07-06	input arrived You position SpookyPath.Well
+13:18:55.11386 2020-07-06	input exited You position SpookyPath.Well
+13:18:55.34786 2020-07-06	succeeded Sheathe(You, A Sturdy Sword)
+13:19:00.17152 2020-07-06	succeeded Die(Bandit)
+13:19:00.31904 2020-07-06	started SetExpression(Bandit, asleep)
+13:19:00.32404 2020-07-06	started DisableIcon(Talk, Bandit)
+13:19:00.32904 2020-07-06	started DisableIcon(Attack, Bandit)
+13:19:00.33504 2020-07-06	started DisableInput()
+13:19:00.34104 2020-07-06	started CreateEffect(You, Resurrection)
+13:19:00.35004 2020-07-06	started PlaySound(spell)
+13:19:00.45304 2020-07-06	succeeded SetExpression(Bandit, asleep)
+13:19:00.45804 2020-07-06	succeeded DisableIcon(Talk, Bandit)
+13:19:00.46304 2020-07-06	succeeded DisableIcon(Attack, Bandit)
+13:19:00.46904 2020-07-06	succeeded DisableInput()
+13:19:00.47304 2020-07-06	succeeded CreateEffect(You, Resurrection)
+13:19:00.47804 2020-07-06	succeeded PlaySound(spell)
+13:19:01.25904 2020-07-06	started SetNarration(You earned a new skill point. Press E to open the skills menu and upgrade your skills.)
+13:19:01.26304 2020-07-06	started ShowNarration()
+13:19:01.26704 2020-07-06	started EnableInput()
+13:19:01.27104 2020-07-06	started EnableInput()
+13:19:01.34204 2020-07-06	succeeded SetNarration(You earned a new skill point. Press E to open the skills menu and upgrade your skills.)
+13:19:01.34704 2020-07-06	succeeded ShowNarration()
+13:19:01.35104 2020-07-06	succeeded EnableInput()
+13:19:01.35504 2020-07-06	succeeded EnableInput()
+13:19:02.39081 2020-07-06	input Close Narration
+13:19:02.47180 2020-07-06	started HideNarration()
+13:19:02.60180 2020-07-06	succeeded HideNarration()
+13:19:02.60580 2020-07-06	input arrived You at (2093.2, 0.1, 4.2)
+13:19:03.05032 2020-07-06	input arrived You position SpookyPath.Well
+13:19:04.10000 2020-07-06	input started walking You at (2093.2, 0.1, 4.2)
+13:19:04.10502 2020-07-06	input stopped walking You at (2093.2, 0.1, 4.2)
+13:19:04.13400 2020-07-06	input started walking You at (2093.2, 0.1, 4.2)
+13:19:04.33600 2020-07-06	input exited You position SpookyPath.Well
+13:19:04.36100 2020-07-06	input exited You position Bandit
+13:19:04.61400 2020-07-06	input arrived You at (2094.0, 0.1, 3.7)
+13:19:05.25700 2020-07-06	input arrived You position SpookyPath.DirtPile
+13:19:05.57900 2020-07-06	input exited You position SpookyPath.DirtPile
+13:19:06.62311 2020-07-06	input arrived You at (2098.7, 0.1, -1.1)
+13:19:08.14245 2020-07-06	input arrived You position SpookyPath.WestEnd
+13:19:08.14947 2020-07-06	started Exit(You, SpookyPath.WestEnd, true)
+13:19:08.29946 2020-07-06	input exited You position SpookyPath.WestEnd
+13:19:09.56193 2020-07-06	input arrived You at (2102.0, 0.0, -9.1)
+13:19:09.59992 2020-07-06	succeeded Exit(You, SpookyPath.WestEnd, true)
+13:19:09.62992 2020-07-06	started Enter(You, Ruins.Exit, true)
+13:19:12.12497 2020-07-06	input started walking You at (2375.7, 21.5, 37.6)
+13:19:12.12897 2020-07-06	input arrived You at (2375.7, 21.5, 37.6)
+13:19:12.13397 2020-07-06	input stopped walking You at (2375.7, 21.5, 37.6)
+13:19:12.18697 2020-07-06	input started walking You at (2375.7, 21.5, 37.6)
+13:19:12.22698 2020-07-06	input started walking You at (2375.7, 21.5, 37.6)
+13:19:12.26697 2020-07-06	input started walking You at (2375.7, 21.5, 37.6)
+13:19:12.27097 2020-07-06	input stopped walking You at (2375.7, 21.5, 37.6)
+13:19:12.29897 2020-07-06	input started walking You at (2375.7, 21.5, 37.6)
+13:19:12.43697 2020-07-06	succeeded Enter(You, Ruins.Exit, true)
+13:19:12.46697 2020-07-06	started EnableIcon(TravelRuins, Dungeon, Courtyard.Horse, Travel to the Ruins, false)
+13:19:12.50097 2020-07-06	succeeded EnableIcon(TravelRuins, Dungeon, Courtyard.Horse, Travel to the Ruins, false)
+13:19:14.13231 2020-07-06	input arrived You at (2381.2, 23.0, 37.7)
+13:19:15.35831 2020-07-06	input stopped walking You at (2384.7, 24.5, 37.8)
+13:19:15.95004 2020-07-06	input Talk Fia the Deathseeker
+13:19:15.98303 2020-07-06	started SetLeft(You)
+13:19:15.99103 2020-07-06	started SetRight(Fia the Deathseeker)
+13:19:15.99603 2020-07-06	started WalkTo(You, Fia the Deathseeker)
+13:19:16.00103 2020-07-06	input started walking You at (2384.7, 24.5, 37.8)
+13:19:16.00503 2020-07-06	input started walking You at (2384.7, 24.5, 37.8)
+13:19:16.04903 2020-07-06	succeeded SetLeft(You)
+13:19:16.05303 2020-07-06	succeeded SetRight(Fia the Deathseeker)
+13:19:16.05803 2020-07-06	input started walking You at (2384.7, 24.5, 37.8)
+13:19:16.16304 2020-07-06	input arrived You at (2384.8, 24.5, 37.8)
+13:19:16.51503 2020-07-06	input arrived You position Ruins.Altar
+13:19:16.95503 2020-07-06	input exited You position Ruins.Altar
+13:19:18.14507 2020-07-06	input arrived You position Ruins.Throne
+13:19:18.17607 2020-07-06	input arrived You position Fia the Deathseeker
+13:19:18.18207 2020-07-06	succeeded WalkTo(You, Fia the Deathseeker)
+13:19:18.18707 2020-07-06	input arrived You at (2391.1, 24.5, 37.7)
+13:19:18.22208 2020-07-06	started SetDialog("You must have a death wish to walk into my sanctum like this. Give me one good reason why I shouldn't turn you into ash right this moment.\n[nodisrespect|I meant no disrespect. I'm new to this dominion]\n[straightshooter|I'm not here to die. I'm here to learn]\n[foolish|I don't take joy in empty threats, old one]")
+13:19:18.25607 2020-07-06	succeeded SetDialog("You must have a death wish to walk into my sanctum like this. Give me one good reason why I shouldn't turn you into ash right this moment.\n[nodisrespect|I meant no disrespect. I'm new to this dominion]\n[straightshooter|I'm not here to die. I'm here to learn]\n[foolish|I don't take joy in empty threats, old one]")
+13:19:18.29407 2020-07-06	started ShowDialog()
+13:19:18.36207 2020-07-06	succeeded ShowDialog()
+13:19:19.75807 2020-07-06	input Selected nodisrespect
+13:19:19.78508 2020-07-06	started ClearDialog()
+13:19:19.78907 2020-07-06	started SetDialog("That still doesn't justify you being here. If you're not here to serve, you have little time to leave to whatever hole you crawled out of.\n[serve|What do you need me to do?]\n[leave|Leave]")
+13:19:19.81307 2020-07-06	succeeded ClearDialog()
+13:19:19.81711 2020-07-06	succeeded SetDialog("That still doesn't justify you being here. If you're not here to serve, you have little time to leave to whatever hole you crawled out of.\n[serve|What do you need me to do?]\n[leave|Leave]")
+13:19:20.99807 2020-07-06	input Selected serve
+13:19:21.03407 2020-07-06	started ClearDialog()
+13:19:21.03807 2020-07-06	started SetExpression(Fia the Deathseeker)
+13:19:21.04307 2020-07-06	started SetDialog("Hmm. The prisoners must be fed in the dungeon. Since there are no minions around, I recon you could handle a trivial task as such.\n[leave|Leave]\n[dungeon|(Go to the dungeon)]")
+13:19:21.07107 2020-07-06	succeeded ClearDialog()
+13:19:21.07507 2020-07-06	succeeded SetExpression(Fia the Deathseeker)
+13:19:21.07907 2020-07-06	succeeded SetDialog("Hmm. The prisoners must be fed in the dungeon. Since there are no minions around, I recon you could handle a trivial task as such.\n[leave|Leave]\n[dungeon|(Go to the dungeon)]")
+13:19:22.56907 2020-07-06	input Selected leave
+13:19:22.60507 2020-07-06	started HideDialog()
+13:19:22.61206 2020-07-06	started EnableInput()
+13:19:22.61707 2020-07-06	started StopSound()
+13:19:22.64407 2020-07-06	succeeded HideDialog()
+13:19:22.64907 2020-07-06	succeeded EnableInput()
+13:19:22.65207 2020-07-06	succeeded StopSound()
+13:19:23.69172 2020-07-06	input started walking You at (2391.1, 24.5, 37.7)
+13:19:23.69572 2020-07-06	input stopped walking You at (2391.1, 24.5, 37.7)
+13:19:23.75572 2020-07-06	input started walking You at (2391.1, 24.5, 37.7)
+13:19:23.95572 2020-07-06	input exited You position Fia the Deathseeker
+13:19:24.02172 2020-07-06	input exited You position Ruins.Throne
+13:19:24.68073 2020-07-06	input arrived You at (2388.8, 24.4, 38.5)
+13:19:25.33829 2020-07-06	input arrived You position Ruins.Altar
+13:19:25.75229 2020-07-06	input exited You position Ruins.Altar
+13:19:26.72929 2020-07-06	input arrived You at (2382.1, 23.0, 37.5)
+13:19:28.77804 2020-07-06	input arrived You at (2375.5, 21.5, 37.4)
+13:19:29.52903 2020-07-06	input arrived You position Ruins.Exit
+13:19:29.53704 2020-07-06	started Exit(You, Ruins.Exit, true)
+13:19:31.89105 2020-07-06	input arrived You at (2369.4, 21.3, 37.4)
+13:19:32.05307 2020-07-06	succeeded Exit(You, Ruins.Exit, true)
+13:19:32.13407 2020-07-06	started Enter(You, SpookyPath.WestEnd, true)
+13:19:34.57499 2020-07-06	input stopped walking You at (2099.9, 0.0, -4.0)
+13:19:34.60999 2020-07-06	input started walking You at (2099.9, 0.1, -4.0)
+13:19:34.61499 2020-07-06	input arrived You at (2099.9, 0.1, -4.0)
+13:19:34.67799 2020-07-06	input started walking You at (2099.9, 0.1, -4.0)
+13:19:34.71499 2020-07-06	input started walking You at (2099.9, 0.1, -4.0)
+13:19:34.71999 2020-07-06	input stopped walking You at (2099.9, 0.1, -4.0)
+13:19:34.76099 2020-07-06	input started walking You at (2099.9, 0.1, -4.0)
+13:19:34.95999 2020-07-06	succeeded Enter(You, SpookyPath.WestEnd, true)
+13:19:36.61673 2020-07-06	input arrived You at (2098.6, 0.1, 1.5)
+13:19:38.62904 2020-07-06	input arrived You at (2100.8, 0.1, 8.1)
+13:19:40.63319 2020-07-06	input arrived You at (2099.5, 0.1, 14.8)
+13:19:41.18819 2020-07-06	input arrived You position SpookyPath.EastEnd
+13:19:41.19421 2020-07-06	started Exit(You, SpookyPath.EastEnd, true)
+13:19:42.67580 2020-07-06	input arrived You at (2096.8, 0.0, 19.8)
+13:19:42.73080 2020-07-06	succeeded Exit(You, SpookyPath.EastEnd, true)
+13:19:42.76080 2020-07-06	started Enter(You, CastleCrossroads.EastEnd, true)
+13:19:45.20380 2020-07-06	input started walking You at (-1202.2, 0.1, -6.3)
+13:19:45.20879 2020-07-06	input arrived You at (-1202.2, 0.1, -6.3)
+13:19:45.21180 2020-07-06	input stopped walking You at (-1202.2, 0.1, -6.3)
+13:19:45.24280 2020-07-06	input started walking You at (-1202.2, 0.1, -6.3)
+13:19:45.27680 2020-07-06	input started walking You at (-1202.2, 0.1, -6.3)
+13:19:45.31280 2020-07-06	input started walking You at (-1202.2, 0.1, -6.3)
+13:19:45.31580 2020-07-06	input stopped walking You at (-1202.2, 0.1, -6.3)
+13:19:45.34280 2020-07-06	input started walking You at (-1202.2, 0.1, -6.3)
+13:19:45.46280 2020-07-06	succeeded Enter(You, CastleCrossroads.EastEnd, true)
+13:19:47.05672 2020-07-06	input arrived You position CastleCrossroads.Left
+13:19:47.20572 2020-07-06	input arrived You at (-1196.6, 0.1, -6.5)
+13:19:47.63772 2020-07-06	input exited You position CastleCrossroads.Left
+13:19:48.99002 2020-07-06	input arrived You position CastleCrossroads.Right
+13:19:49.21103 2020-07-06	input arrived You at (-1190.0, 0.1, -7.2)
+13:19:49.59004 2020-07-06	input exited You position CastleCrossroads.Right
+13:19:50.36804 2020-07-06	input arrived You position CastleCrossroads.WestSign
+13:19:50.99904 2020-07-06	input exited You position CastleCrossroads.WestSign
+13:19:51.22905 2020-07-06	input arrived You at (-1183.4, 0.1, -9.1)
+13:19:52.03804 2020-07-06	input arrived You position CastleCrossroads.WestEnd
+13:19:52.04604 2020-07-06	started Exit(You, CastleCrossroads.WestEnd, true)
+13:19:52.32504 2020-07-06	input exited You position CastleCrossroads.WestEnd
+13:19:53.76014 2020-07-06	input arrived You at (-1180.1, 0.0, -13.9)
+13:19:53.80614 2020-07-06	succeeded Exit(You, CastleCrossroads.WestEnd, true)
+13:19:53.84214 2020-07-06	started Enter(You, Library.Door, true)
+13:19:54.03514 2020-07-06	input arrived You position Library.Door.Out
+13:19:57.86737 2020-07-06	input arrived You position Library.Door
+13:19:57.87237 2020-07-06	input arrived You position Library.Door.In
+13:19:58.16737 2020-07-06	input started walking You at (1804.4, -7.3, -0.6)
+13:19:58.17237 2020-07-06	input arrived You at (1804.4, -7.3, -0.6)
+13:19:58.23737 2020-07-06	input started walking You at (1804.4, -7.3, -0.6)
+13:19:58.24238 2020-07-06	input stopped walking You at (1804.4, -7.3, -0.6)
+13:19:58.33837 2020-07-06	input started walking You at (1804.3, -7.3, -0.6)
+13:19:58.52437 2020-07-06	input exited You position Library.Door
+13:19:58.69337 2020-07-06	input exited You position Library.Door.In
+13:19:58.95837 2020-07-06	input started walking You at (1802.8, -6.4, -0.5)
+13:19:59.05337 2020-07-06	input started walking You at (1802.8, -6.4, -0.5)
+13:19:59.34338 2020-07-06	succeeded Enter(You, Library.Door, true)
+13:19:59.39808 2020-07-06	started EnableIcon(TravelLibrary, Cottage, Courtyard.Horse, Travel to the Library, false)
+13:19:59.45208 2020-07-06	succeeded EnableIcon(TravelLibrary, Cottage, Courtyard.Horse, Travel to the Library, false)
+13:20:00.16908 2020-07-06	input arrived You at (1800.8, -5.6, 1.8)
+13:20:01.70008 2020-07-06	input arrived You position Emmilia
+13:20:02.18608 2020-07-06	input started walking You at (1801.3, -5.7, 8.8)
+13:20:02.19108 2020-07-06	input arrived You at (1801.3, -5.7, 8.8)
+13:20:02.19508 2020-07-06	input stopped walking You at (1801.3, -5.7, 8.8)
+13:20:02.24059 2020-07-06	input started walking You at (1801.3, -5.7, 8.8)
+13:20:02.92610 2020-07-06	input exited You position Emmilia
+13:20:03.56110 2020-07-06	input stopped walking You at (1804.4, -5.7, 7.3)
+13:20:04.21211 2020-07-06	input arrived You at (1804.4, -5.7, 7.3)
+13:20:04.66708 2020-07-06	input Talk Emmilia
+13:20:04.75108 2020-07-06	started SetLeft(You)
+13:20:04.76808 2020-07-06	started SetRight(Emmilia)
+13:20:04.77408 2020-07-06	started WalkTo(You, Emmilia)
+13:20:04.77908 2020-07-06	input started walking You at (1804.4, -5.7, 7.3)
+13:20:04.78508 2020-07-06	input started walking You at (1804.4, -5.7, 7.3)
+13:20:04.83308 2020-07-06	succeeded SetLeft(You)
+13:20:04.83708 2020-07-06	succeeded SetRight(Emmilia)
+13:20:04.84108 2020-07-06	input started walking You at (1804.4, -5.7, 7.3)
+13:20:05.69438 2020-07-06	input arrived You position Emmilia
+13:20:05.70238 2020-07-06	succeeded WalkTo(You, Emmilia)
+13:20:05.77139 2020-07-06	started SetDialog("Ah! You must be here to read? Mustn't you? To learn about the herbs and chemistry. \"Why do you have to be so buoyant, Emmilia? He's illiterate.\" That is presumptuous of you! Are you, sir? Are you illiterate?\n[notilliterate|No, I am not. I am not here to read either]\n[someoneelse|Is there someone else with us in this room?]")
+13:20:05.87738 2020-07-06	succeeded SetDialog("Ah! You must be here to read? Mustn't you? To learn about the herbs and chemistry. \"Why do you have to be so buoyant, Emmilia? He's illiterate.\" That is presumptuous of you! Are you, sir? Are you illiterate?\n[notilliterate|No, I am not. I am not here to read either]\n[someoneelse|Is there someone else with us in this room?]")
+13:20:05.93138 2020-07-06	started ShowDialog()
+13:20:06.02138 2020-07-06	succeeded ShowDialog()
+13:20:07.21139 2020-07-06	input Selected notilliterate
+13:20:07.27039 2020-07-06	started ClearDialog()
+13:20:07.27439 2020-07-06	started SetExpression(Emmilia, happy)
+13:20:07.32339 2020-07-06	succeeded ClearDialog()
+13:20:07.32739 2020-07-06	succeeded SetExpression(Emmilia, happy)
+13:20:07.42439 2020-07-06	started SetDialog("Splendid! You see, I am the kingdom's brightest chemist. I can brew potions for every need! \"Do you want to find love? or do you want to have a courageous heart? or do you want to make one die a painful horrid death?\"\nNow, now! Don't scare off this child!\n[continue|Please continue]\n[leave|Leave]")
+13:20:07.47239 2020-07-06	succeeded SetDialog("Splendid! You see, I am the kingdom's brightest chemist. I can brew potions for every need! \"Do you want to find love? or do you want to have a courageous heart? or do you want to make one die a painful horrid death?\"\nNow, now! Don't scare off this child!\n[continue|Please continue]\n[leave|Leave]")
+13:20:08.38639 2020-07-06	input Selected continue
+13:20:08.45839 2020-07-06	started ClearDialog()
+13:20:08.46239 2020-07-06	started SetExpression(Emmilia, happy)
+13:20:08.51739 2020-07-06	succeeded ClearDialog()
+13:20:08.52139 2020-07-06	succeeded SetExpression(Emmilia, happy)
+13:20:08.58340 2020-07-06	started SetDialog("You're here to pledge allegiance with us, aren't you? I'm thrilled. We have the power to vanquish our competition. \"We hate sharing! We want it all!\" Calm yourself my dear. In due time!\n[continue2|Carry on]")
+13:20:08.64939 2020-07-06	succeeded SetDialog("You're here to pledge allegiance with us, aren't you? I'm thrilled. We have the power to vanquish our competition. \"We hate sharing! We want it all!\" Calm yourself my dear. In due time!\n[continue2|Carry on]")
+13:20:09.39540 2020-07-06	input Selected continue2
+13:20:09.45539 2020-07-06	started ClearDialog()
+13:20:09.45939 2020-07-06	started SetExpression(Emmilia, disgusted)
+13:20:09.51939 2020-07-06	succeeded ClearDialog()
+13:20:09.52439 2020-07-06	succeeded SetExpression(Emmilia, disgusted)
+13:20:09.58641 2020-07-06	started SetDialog("Go to LionHeart and Fia the Deathseeker and pretend you desire to serve them. Gather information that we can use against them in their demise.\n[tellLionheart|Tell her about LionHeart]\n[tellNecro|Tell her about Fia the Deathseeker]\n[leave|Leave]")
+13:20:09.67739 2020-07-06	succeeded SetDialog("Go to LionHeart and Fia the Deathseeker and pretend you desire to serve them. Gather information that we can use against them in their demise.\n[tellLionheart|Tell her about LionHeart]\n[tellNecro|Tell her about Fia the Deathseeker]\n[leave|Leave]")
+13:20:10.58091 2020-07-06	input Selected tellNecro
+13:20:10.64291 2020-07-06	started ClearDialog()
+13:20:10.64691 2020-07-06	started SetExpression(Emmilia, angry)
+13:20:10.71091 2020-07-06	succeeded ClearDialog()
+13:20:10.71591 2020-07-06	succeeded SetExpression(Emmilia, angry)
+13:20:10.77991 2020-07-06	started SetDialog("Feeding people? \"Don't be so naive! He's cursed with pyromania! He burnt down all the farms in his kingdom! His reign of terror must cease to exist!\"\n[emmOther|Something else]")
+13:20:10.90492 2020-07-06	succeeded SetDialog("Feeding people? \"Don't be so naive! He's cursed with pyromania! He burnt down all the farms in his kingdom! His reign of terror must cease to exist!\"\n[emmOther|Something else]")
+13:20:11.63151 2020-07-06	input Selected emmOther
+13:20:11.69151 2020-07-06	started ClearDialog()
+13:20:11.69551 2020-07-06	started SetExpression(Emmilia)
+13:20:11.75551 2020-07-06	succeeded ClearDialog()
+13:20:11.75951 2020-07-06	succeeded SetExpression(Emmilia)
+13:20:11.86751 2020-07-06	started SetDialog("Go to LionHeart and Fia the Deathseeker and pretend you desire to serve them. Gather information that we can use against them in their demise.\n[tellLionheart|Tell her about LionHeart]\n[tellNecro|Tell her about Fia the Deathseeker]\n[leave|Leave]")
+13:20:11.92151 2020-07-06	succeeded SetDialog("Go to LionHeart and Fia the Deathseeker and pretend you desire to serve them. Gather information that we can use against them in their demise.\n[tellLionheart|Tell her about LionHeart]\n[tellNecro|Tell her about Fia the Deathseeker]\n[leave|Leave]")
+13:20:12.57104 2020-07-06	input Selected tellLionheart
+13:20:12.64104 2020-07-06	started ClearDialog()
+13:20:12.64504 2020-07-06	started SetExpression(Emmilia, angry)
+13:20:12.73304 2020-07-06	succeeded ClearDialog()
+13:20:12.73704 2020-07-06	succeeded SetExpression(Emmilia, angry)
+13:20:12.78504 2020-07-06	started SetDialog("A bandit you say? \"He lies! There is no bandit! That's how he rids of those in his way. LionHeart the Just! Pff!\"\n[emmQuest|Next]")
+13:20:12.85004 2020-07-06	succeeded SetDialog("A bandit you say? \"He lies! There is no bandit! That's how he rids of those in his way. LionHeart the Just! Pff!\"\n[emmQuest|Next]")
+13:20:13.52604 2020-07-06	input Selected emmQuest
+13:20:13.59604 2020-07-06	started ClearDialog()
+13:20:13.60004 2020-07-06	started SetExpression(Emmilia, happy)
+13:20:13.66004 2020-07-06	succeeded ClearDialog()
+13:20:13.66404 2020-07-06	succeeded SetExpression(Emmilia, happy)
+13:20:13.73904 2020-07-06	started DisableInput()
+13:20:13.74304 2020-07-06	started CreateEffect(You, Resurrection)
+13:20:13.75104 2020-07-06	started PlaySound(spell)
+13:20:13.86405 2020-07-06	succeeded DisableInput()
+13:20:13.86805 2020-07-06	succeeded CreateEffect(You, Resurrection)
+13:20:13.87405 2020-07-06	succeeded PlaySound(spell)
+13:20:14.72205 2020-07-06	started SetNarration(You earned a new skill point. Press E to open the skills menu and upgrade your skills.)
+13:20:14.72605 2020-07-06	started ShowNarration()
+13:20:14.73005 2020-07-06	started EnableInput()
+13:20:14.73305 2020-07-06	started SetDialog("Here! This will help you help me in a more timely fashion! \"What are you doing? That is very valuable Emmilia!\" He has earned it!\n[emmQuest1.5|Thank you my lady!]\n[emmQuest1.5|(Take the compass)]")
+13:20:14.78205 2020-07-06	succeeded SetNarration(You earned a new skill point. Press E to open the skills menu and upgrade your skills.)
+13:20:14.78505 2020-07-06	succeeded ShowNarration()
+13:20:14.78905 2020-07-06	succeeded EnableInput()
+13:20:14.79405 2020-07-06	succeeded SetDialog("Here! This will help you help me in a more timely fashion! \"What are you doing? That is very valuable Emmilia!\" He has earned it!\n[emmQuest1.5|Thank you my lady!]\n[emmQuest1.5|(Take the compass)]")
+13:20:16.33808 2020-07-06	input Close Narration
+13:20:16.39208 2020-07-06	started HideNarration()
+13:20:16.47008 2020-07-06	succeeded HideNarration()
+13:20:17.77951 2020-07-06	input Selected emmQuest1.5
+13:20:17.85451 2020-07-06	started ClearDialog()
+13:20:17.85951 2020-07-06	started SetExpression(Emmilia, sad)
+13:20:17.93451 2020-07-06	succeeded ClearDialog()
+13:20:17.93951 2020-07-06	succeeded SetExpression(Emmilia, sad)
+13:20:18.01651 2020-07-06	started SetDialog("I deserve to rule this kingdom. \"WE deserve to rule this kingdom.\" They called me mad! \"Mad witch!\" Shut up! I have had enough. Oh! you're still here. Good! It's time to put those two unwitting gouls out of their misery\n(You need Alchemy skill of 3 or higher to proceed)\n[leave|Leave]")
+13:20:18.14603 2020-07-06	succeeded SetDialog("I deserve to rule this kingdom. \"WE deserve to rule this kingdom.\" They called me mad! \"Mad witch!\" Shut up! I have had enough. Oh! you're still here. Good! It's time to put those two unwitting gouls out of their misery\n(You need Alchemy skill of 3 or higher to proceed)\n[leave|Leave]")
+13:20:19.77903 2020-07-06	input Selected leave
+13:20:19.83305 2020-07-06	started HideDialog()
+13:20:19.84355 2020-07-06	started EnableInput()
+13:20:19.84654 2020-07-06	started StopSound()
+13:20:19.92155 2020-07-06	succeeded HideDialog()
+13:20:19.92554 2020-07-06	succeeded EnableInput()
+13:20:19.92855 2020-07-06	succeeded StopSound()
+13:20:19.93155 2020-07-06	input arrived You at (1802.3, -5.7, 6.9)
+13:20:22.38933 2020-07-06	input Key Inventory
+13:20:22.41933 2020-07-06	started ClearList()
+13:20:22.45233 2020-07-06	succeeded ClearList()
+13:20:22.49533 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:20:22.51333 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:20:22.52333 2020-07-06	started ShowList(You, You)
+13:20:22.57433 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:20:22.57733 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:20:22.58033 2020-07-06	succeeded ShowList(You, You)
+13:20:24.73385 2020-07-06	input Touch Compass
+13:20:24.75885 2020-07-06	started DisableInput()
+13:20:24.79484 2020-07-06	succeeded DisableInput()
+13:20:24.82285 2020-07-06	started HideList()
+13:20:24.82885 2020-07-06	started FadeOut()
+13:20:24.86385 2020-07-06	succeeded HideList()
+13:20:25.86885 2020-07-06	succeeded FadeOut()
+13:20:25.89785 2020-07-06	started SetPosition(You, Courtyard.Fountain)
+13:20:26.13286 2020-07-06	input arrived You position Courtyard.Fountain
+13:20:26.13785 2020-07-06	input exited You position Emmilia
+13:20:26.27586 2020-07-06	input stopped walking You at (905.2, -3.3, -6.8)
+13:20:26.70085 2020-07-06	succeeded SetPosition(You, Courtyard.Fountain)
+13:20:26.79286 2020-07-06	started Face(You, Courtyard.Fountain)
+13:20:28.71185 2020-07-06	succeeded Face(You, Courtyard.Fountain)
+13:20:28.75886 2020-07-06	started FadeIn()
+13:20:29.83585 2020-07-06	succeeded FadeIn()
+13:20:29.88989 2020-07-06	started EnableInput()
+13:20:29.93488 2020-07-06	succeeded EnableInput()
+13:20:29.93988 2020-07-06	input arrived You at (905.2, -3.3, -6.8)
+13:20:33.82796 2020-07-06	input TravelGreatHall Courtyard.Horse
+13:20:33.88095 2020-07-06	started DisableInput()
+13:20:33.88495 2020-07-06	started FadeOut()
+13:20:33.92995 2020-07-06	succeeded DisableInput()
+13:20:34.96595 2020-07-06	succeeded FadeOut()
+13:20:35.01595 2020-07-06	started SetPosition(You, GreatHall)
+13:20:35.36595 2020-07-06	input exited You position Courtyard.Fountain
+13:20:35.63195 2020-07-06	succeeded SetPosition(You, GreatHall)
+13:20:35.65895 2020-07-06	started FadeIn()
+13:20:36.39895 2020-07-06	input Key Interact
+13:20:36.68295 2020-07-06	succeeded FadeIn()
+13:20:36.70795 2020-07-06	started EnableInput()
+13:20:36.73095 2020-07-06	succeeded EnableInput()
+13:20:36.73595 2020-07-06	input arrived You at (585.3, 2.7, -9.2)
+13:20:37.22525 2020-07-06	input Key Interact
+13:20:37.25325 2020-07-06	started ClearList()
+13:20:37.29225 2020-07-06	succeeded ClearList()
+13:20:37.32625 2020-07-06	started AddToList(Alchemy, The ability to mix and brew rudimentary and complex potions\nSkill Level:1)
+13:20:37.33525 2020-07-06	started AddToList(Swordsmanship, The ability to wield heavy weaponary and armour\nSkill Level:1)
+13:20:37.34625 2020-07-06	started AddToList(Magic, The ability to learn and cast novice and necromancy spells\nSkill Level:1)
+13:20:37.35824 2020-07-06	started ShowList(You, Skills Available: 2)
+13:20:37.39526 2020-07-06	succeeded AddToList(Alchemy, The ability to mix and brew rudimentary and complex potions\nSkill Level:1)
+13:20:37.39925 2020-07-06	succeeded AddToList(Swordsmanship, The ability to wield heavy weaponary and armour\nSkill Level:1)
+13:20:37.40325 2020-07-06	succeeded AddToList(Magic, The ability to learn and cast novice and necromancy spells\nSkill Level:1)
+13:20:37.40625 2020-07-06	succeeded ShowList(You, Skills Available: 2)
+13:20:41.92463 2020-07-06	input Upgrade Swordsmanship
+13:20:41.95762 2020-07-06	started HideList()
+13:20:41.96463 2020-07-06	started PlaySound(Spell2)
+13:20:41.99162 2020-07-06	succeeded HideList()
+13:20:41.99562 2020-07-06	succeeded PlaySound(Spell2)
+13:20:43.01877 2020-07-06	input Key Interact
+13:20:43.04178 2020-07-06	started ClearList()
+13:20:43.06577 2020-07-06	succeeded ClearList()
+13:20:43.09978 2020-07-06	started AddToList(Alchemy, The ability to mix and brew rudimentary and complex potions\nSkill Level:1)
+13:20:43.10678 2020-07-06	started AddToList(Swordsmanship, The ability to wield heavy weaponary and armour\nSkill Level:2)
+13:20:43.11777 2020-07-06	started AddToList(Magic, The ability to learn and cast novice and necromancy spells\nSkill Level:1)
+13:20:43.12878 2020-07-06	started ShowList(You, Skills Available: 1)
+13:20:43.17177 2020-07-06	succeeded AddToList(Alchemy, The ability to mix and brew rudimentary and complex potions\nSkill Level:1)
+13:20:43.17477 2020-07-06	succeeded AddToList(Swordsmanship, The ability to wield heavy weaponary and armour\nSkill Level:2)
+13:20:43.17777 2020-07-06	succeeded AddToList(Magic, The ability to learn and cast novice and necromancy spells\nSkill Level:1)
+13:20:43.17977 2020-07-06	succeeded ShowList(You, Skills Available: 1)
+13:20:45.12878 2020-07-06	input Upgrade Swordsmanship
+13:20:45.15278 2020-07-06	started HideList()
+13:20:45.15778 2020-07-06	started PlaySound(Spell2)
+13:20:45.18065 2020-07-06	succeeded HideList()
+13:20:45.18465 2020-07-06	succeeded PlaySound(Spell2)
+13:20:45.68099 2020-07-06	input started walking You at (585.3, 2.7, -9.2)
+13:20:45.71201 2020-07-06	input started walking You at (585.7, 2.7, -9.2)
+13:20:47.20781 2020-07-06	input arrived You at (581.2, 2.7, -9.2)
+13:20:48.75483 2020-07-06	input stopped walking You at (579.2, 2.7, -7.9)
+13:20:48.77581 2020-07-06	input started walking You at (579.2, 2.7, -7.9)
+13:20:48.79781 2020-07-06	input started walking You at (579.2, 2.7, -7.9)
+13:20:49.20781 2020-07-06	input arrived You at (579.2, 2.7, -8.6)
+13:20:51.21995 2020-07-06	input arrived You at (577.0, 3.6, -8.8)
+13:20:53.23995 2020-07-06	input arrived You at (577.0, 7.6, -2.9)
+13:20:54.51295 2020-07-06	input arrived You position GreatHall.LeftSupplicant
+13:20:55.09548 2020-07-06	input exited You position GreatHall.LeftSupplicant
+13:20:55.24547 2020-07-06	input arrived You at (582.3, 7.6, 0.7)
+13:20:56.17047 2020-07-06	input stopped walking You at (584.6, 7.6, 2.5)
+13:20:56.67148 2020-07-06	input Talk Lionheart The Just
+13:20:56.70049 2020-07-06	started SetLeft(You)
+13:20:56.70547 2020-07-06	started SetRight(Lionheart The Just)
+13:20:56.71147 2020-07-06	started WalkTo(You, Lionheart The Just)
+13:20:56.71647 2020-07-06	input started walking You at (584.6, 7.6, 2.5)
+13:20:56.72447 2020-07-06	input started walking You at (584.6, 7.6, 2.5)
+13:20:56.74747 2020-07-06	succeeded SetLeft(You)
+13:20:56.75147 2020-07-06	succeeded SetRight(Lionheart The Just)
+13:20:56.75647 2020-07-06	input started walking You at (584.6, 7.6, 2.5)
+13:20:57.24901 2020-07-06	input arrived You at (585.1, 7.8, 3.4)
+13:20:57.43800 2020-07-06	input arrived You position Lionheart The Just
+13:20:57.44199 2020-07-06	succeeded WalkTo(You, Lionheart The Just)
+13:20:57.47200 2020-07-06	started SetDialog("Slendid! You have done the kingdom a favor. My people and I are greatful to you. I'd recon you are here to pledge your allegiance to me.\nIndeed, ou have proved your loyalty and mastered the skills to join my royalty. Before we proceed, I have another request.\n[lionheartkillorder1|Next]")
+13:20:57.49799 2020-07-06	succeeded SetDialog("Slendid! You have done the kingdom a favor. My people and I are greatful to you. I'd recon you are here to pledge your allegiance to me.\nIndeed, ou have proved your loyalty and mastered the skills to join my royalty. Before we proceed, I have another request.\n[lionheartkillorder1|Next]")
+13:20:57.52000 2020-07-06	started ShowDialog()
+13:20:57.56999 2020-07-06	succeeded ShowDialog()
+13:21:00.16910 2020-07-06	input Selected lionheartkillorder1
+13:21:00.19910 2020-07-06	started ClearDialog()
+13:21:00.23011 2020-07-06	succeeded ClearDialog()
+13:21:00.25611 2020-07-06	started SetDialog("The kingdom is in peril as long as it is divided. The people are in constant fear and terror in the necromancer's domain.\nEmmilia has forsaken her people and locked herself in her library.\nI wouldn't hesitate to fight for my kingdom. However, breaking the truce wil ensue so many more deaths.\n[lionheartkillorder2|Next]")
+13:21:00.31711 2020-07-06	succeeded SetDialog("The kingdom is in peril as long as it is divided. The people are in constant fear and terror in the necromancer's domain.\nEmmilia has forsaken her people and locked herself in her library.\nI wouldn't hesitate to fight for my kingdom. However, breaking the truce wil ensue so many more deaths.\n[lionheartkillorder2|Next]")
+13:21:01.15111 2020-07-06	input Selected lionheartkillorder2
+13:21:01.18011 2020-07-06	started ClearDialog()
+13:21:01.20612 2020-07-06	succeeded ClearDialog()
+13:21:01.23410 2020-07-06	started SetDialog("You have the power to act and put an end to them\nDo this and you shall have your place at my right hand.\nGo to the blacksmith. He shall provide you with a blessed armour that is immune to any unearthly magic.\n[lionheartkillorder3|Leave]")
+13:21:01.26012 2020-07-06	succeeded SetDialog("You have the power to act and put an end to them\nDo this and you shall have your place at my right hand.\nGo to the blacksmith. He shall provide you with a blessed armour that is immune to any unearthly magic.\n[lionheartkillorder3|Leave]")
+13:21:02.04617 2020-07-06	input Selected lionheartkillorder3
+13:21:02.08816 2020-07-06	started EnableIcon(Take, hand, Spell Immunity Helmet, Take, true)
+13:21:02.09517 2020-07-06	started DisableIcon(Inspect, Spell Immunity Helmet)
+13:21:02.10417 2020-07-06	started HideDialog()
+13:21:02.11017 2020-07-06	started EnableInput()
+13:21:02.11396 2020-07-06	started StopSound()
+13:21:02.13896 2020-07-06	succeeded EnableIcon(Take, hand, Spell Immunity Helmet, Take, true)
+13:21:02.14496 2020-07-06	succeeded DisableIcon(Inspect, Spell Immunity Helmet)
+13:21:02.14896 2020-07-06	succeeded HideDialog()
+13:21:02.15296 2020-07-06	succeeded EnableInput()
+13:21:02.15696 2020-07-06	succeeded StopSound()
+13:21:02.16096 2020-07-06	input arrived You at (585.1, 8.0, 3.7)
+13:21:03.19396 2020-07-06	input Talk Lionheart The Just
+13:21:03.22096 2020-07-06	started SetLeft(You)
+13:21:03.22696 2020-07-06	started SetRight(Lionheart The Just)
+13:21:03.23196 2020-07-06	started WalkTo(You, Lionheart The Just)
+13:21:03.23696 2020-07-06	input started walking You at (585.1, 8.0, 3.7)
+13:21:03.24195 2020-07-06	input started walking You at (585.1, 8.0, 3.7)
+13:21:03.24795 2020-07-06	input stopped walking You at (585.1, 8.0, 3.7)
+13:21:03.29496 2020-07-06	succeeded SetLeft(You)
+13:21:03.29796 2020-07-06	succeeded SetRight(Lionheart The Just)
+13:21:03.30096 2020-07-06	input started walking You at (584.7, 8.0, 3.7)
+13:21:03.32596 2020-07-06	input exited You position Lionheart The Just
+13:21:03.49196 2020-07-06	input arrived You position Lionheart The Just
+13:21:03.49796 2020-07-06	succeeded WalkTo(You, Lionheart The Just)
+13:21:03.53195 2020-07-06	started SetDialog("You have the power to act and put an end to them\nDo this and you shall have your place at my right hand.\nGo to the blacksmith. He shall provide you with a blessed armour that is immune to any unearthly magic.\n[lionheartkillorder3|Leave]")
+13:21:03.56296 2020-07-06	succeeded SetDialog("You have the power to act and put an end to them\nDo this and you shall have your place at my right hand.\nGo to the blacksmith. He shall provide you with a blessed armour that is immune to any unearthly magic.\n[lionheartkillorder3|Leave]")
+13:21:03.60396 2020-07-06	started ShowDialog()
+13:21:03.64500 2020-07-06	succeeded ShowDialog()
+13:21:06.29016 2020-07-06	input Selected lionheartkillorder3
+13:21:06.32749 2020-07-06	started EnableIcon(Take, hand, Spell Immunity Helmet, Take, true)
+13:21:06.33449 2020-07-06	started DisableIcon(Inspect, Spell Immunity Helmet)
+13:21:06.34149 2020-07-06	started HideDialog()
+13:21:06.34549 2020-07-06	started EnableInput()
+13:21:06.34849 2020-07-06	started StopSound()
+13:21:06.36949 2020-07-06	failed EnableIcon(Take, hand, Spell Immunity Helmet, Take, true) "An icon with the same name has already been enabled for this object"
+13:21:06.37449 2020-07-06	failed DisableIcon(Inspect, Spell Immunity Helmet) "Failed to disable the specified icon for this object"
+13:21:06.37749 2020-07-06	succeeded HideDialog()
+13:21:06.38149 2020-07-06	succeeded EnableInput()
+13:21:06.38349 2020-07-06	succeeded StopSound()
+13:21:06.38749 2020-07-06	input arrived You at (584.9, 8.0, 3.7)
+13:21:06.65851 2020-07-06	input arrived You position GreatHall.Throne
+13:21:07.15693 2020-07-06	input exited You position GreatHall.Throne
+13:21:08.75062 2020-07-06	input Leave GreatHall.LeftDoor
+13:21:08.79061 2020-07-06	started WalkTo(You, GreatHall.LeftDoor)
+13:21:08.79562 2020-07-06	input started walking You at (584.9, 8.0, 3.7)
+13:21:08.80161 2020-07-06	input started walking You at (584.9, 8.0, 3.7)
+13:21:08.83963 2020-07-06	input started walking You at (584.9, 8.0, 3.7)
+13:21:08.84363 2020-07-06	input stopped walking You at (584.9, 8.0, 3.7)
+13:21:08.89864 2020-07-06	input started walking You at (584.9, 8.0, 3.7)
+13:21:09.06739 2020-07-06	input exited You position Lionheart The Just
+13:21:10.40333 2020-07-06	input arrived You position GreatHall.RightGuard
+13:21:10.41234 2020-07-06	input arrived You at (581.0, 7.6, 1.1)
+13:21:10.46433 2020-07-06	input arrived You position Guard2
+13:21:10.57633 2020-07-06	input exited You position GreatHall.RightGuard
+13:21:10.80033 2020-07-06	input exited You position Guard2
+13:21:12.42019 2020-07-06	input arrived You at (574.4, 7.6, -1.4)
+13:21:14.32428 2020-07-06	succeeded WalkTo(You, GreatHall.LeftDoor)
+13:21:14.36428 2020-07-06	started Exit(You, GreatHall.LeftDoor, true)
+13:21:20.07973 2020-07-06	input arrived You position GreatHall.LeftDoor.Out
+13:21:21.48034 2020-07-06	input arrived You at (566.4, 7.4, -3.8)
+13:21:21.58034 2020-07-06	succeeded Exit(You, GreatHall.LeftDoor, true)
+13:21:21.62934 2020-07-06	started Enter(You, Blacksmith.Door, true)
+13:21:22.02535 2020-07-06	input arrived You position Blacksmith.Door.Out
+13:21:22.03134 2020-07-06	input exited You position GreatHall.LeftDoor.Out
+13:21:25.50156 2020-07-06	input arrived You position Blacksmith.Door.In
+13:21:25.64456 2020-07-06	input arrived You at (299.5, 0.1, -0.3)
+13:21:25.67856 2020-07-06	input exited You position Blacksmith.Door.In
+13:21:25.68556 2020-07-06	input stopped walking You at (299.5, 0.1, -0.3)
+13:21:26.61069 2020-07-06	succeeded Enter(You, Blacksmith.Door, true)
+13:21:26.64769 2020-07-06	started EnableIcon(TravelBlacksmith, Anvil, Courtyard.Horse, Travel to the Blacksmith, false)
+13:21:26.69769 2020-07-06	failed EnableIcon(TravelBlacksmith, Anvil, Courtyard.Horse, Travel to the Blacksmith, false) "An icon with the same name has already been enabled for this object"
+13:21:27.73170 2020-07-06	input started walking You at (299.5, 0.1, -0.3)
+13:21:27.82270 2020-07-06	input arrived You position Blacksmith.Door.In
+13:21:28.33909 2020-07-06	input exited You position Blacksmith.Door.In
+13:21:28.95734 2020-07-06	input arrived You position Blacksmith.Table
+13:21:29.56534 2020-07-06	input exited You position Blacksmith.Table
+13:21:29.65735 2020-07-06	input arrived You at (295.0, 0.1, 3.0)
+13:21:30.15132 2020-07-06	input stopped walking You at (295.5, 0.1, 3.3)
+13:21:31.68675 2020-07-06	input arrived You at (295.5, 0.1, 3.3)
+13:21:31.74675 2020-07-06	input Take Spell Immunity Helmet
+13:21:31.84476 2020-07-06	started DisableIcon(Take, Spell Immunity Helmet)
+13:21:31.84975 2020-07-06	started Take(You, Spell Immunity Helmet)
+13:21:31.90142 2020-07-06	succeeded DisableIcon(Take, Spell Immunity Helmet)
+13:21:31.96993 2020-07-06	input started walking You at (295.5, 0.1, 3.3)
+13:21:32.06493 2020-07-06	input started walking You at (295.5, 0.1, 3.3)
+13:21:32.37494 2020-07-06	input arrived You position Blacksmith.Table
+13:21:32.93545 2020-07-06	input exited You position Blacksmith.Table
+13:21:33.42344 2020-07-06	input arrived You position Blacksmith.Table
+13:21:33.82544 2020-07-06	input exited You position Blacksmith.Table
+13:21:35.09904 2020-07-06	input arrived You position Blacksmith.Table
+13:21:35.15404 2020-07-06	input exited You position Blacksmith.Table
+13:21:37.53506 2020-07-06	input arrived You at (297.8, 0.1, 2.3)
+13:21:37.59006 2020-07-06	succeeded Take(You, Spell Immunity Helmet)
+13:21:37.62406 2020-07-06	started Pocket(You, Spell Immunity Helmet)
+13:21:38.55206 2020-07-06	succeeded Pocket(You, Spell Immunity Helmet)
+13:21:38.57908 2020-07-06	started EnableIcon(Put, forge, Blacksmith.Anvil, Put, true)
+13:21:38.59806 2020-07-06	succeeded EnableIcon(Put, forge, Blacksmith.Anvil, Put, true)
+13:21:39.91408 2020-07-06	input Put Blacksmith.Anvil
+13:21:39.95006 2020-07-06	started Put(You, Spell Immunity Helmet, Blacksmith.Anvil)
+13:21:40.03905 2020-07-06	input started walking You at (297.8, 0.1, 2.3)
+13:21:40.04405 2020-07-06	input stopped walking You at (297.8, 0.1, 2.3)
+13:21:40.07405 2020-07-06	input started walking You at (297.8, 0.1, 2.3)
+13:21:40.13206 2020-07-06	input arrived You position Blacksmith.Table
+13:21:40.60806 2020-07-06	input exited You position Blacksmith.Table
+13:21:40.86206 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:21:40.86606 2020-07-06	input arrived You position Blacksmith.Anvil
+13:21:41.18407 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:21:41.18907 2020-07-06	input exited You position Blacksmith.Anvil
+13:21:41.31106 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:21:41.31507 2020-07-06	input arrived You position Blacksmith.Anvil
+13:21:41.39307 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:21:41.39807 2020-07-06	input exited You position Blacksmith.Anvil
+13:21:44.42787 2020-07-06	input arrived You at (296.3, 0.1, 0.0)
+13:21:44.49087 2020-07-06	succeeded Put(You, Spell Immunity Helmet, Blacksmith.Anvil)
+13:21:44.53487 2020-07-06	started DisableInput()
+13:21:44.53987 2020-07-06	started FadeOut()
+13:21:44.57587 2020-07-06	succeeded DisableInput()
+13:21:45.56587 2020-07-06	succeeded FadeOut()
+13:21:45.59887 2020-07-06	started PlaySound(Sheathe)
+13:21:45.63187 2020-07-06	succeeded PlaySound(Sheathe)
+13:21:46.60091 2020-07-06	started PlaySound(Sheathe)
+13:21:46.64791 2020-07-06	succeeded PlaySound(Sheathe)
+13:21:47.59149 2020-07-06	started PlaySound(Fireball)
+13:21:47.63050 2020-07-06	succeeded PlaySound(Fireball)
+13:21:48.59749 2020-07-06	started PlaySound(Draw)
+13:21:48.60249 2020-07-06	started SetPosition(Spell Immunity Helmet)
+13:21:48.61049 2020-07-06	started SetPosition(Magic Immunity Armour, Blacksmith.Anvil)
+13:21:48.62149 2020-07-06	started DisableIcon(Put, Blacksmith.Anvil)
+13:21:48.62549 2020-07-06	started FadeIn()
+13:21:48.65949 2020-07-06	succeeded PlaySound(Draw)
+13:21:48.66649 2020-07-06	succeeded DisableIcon(Put, Blacksmith.Anvil)
+13:21:49.25849 2020-07-06	succeeded SetPosition(Spell Immunity Helmet)
+13:21:49.26249 2020-07-06	succeeded SetPosition(Magic Immunity Armour, Blacksmith.Anvil)
+13:21:49.64149 2020-07-06	succeeded FadeIn()
+13:21:49.68051 2020-07-06	started EnableInput()
+13:21:49.68549 2020-07-06	started DisableIcon(Take, Spell Immunity Helmet)
+13:21:49.71249 2020-07-06	succeeded EnableInput()
+13:21:49.71649 2020-07-06	failed DisableIcon(Take, Spell Immunity Helmet) "Failed to disable the specified icon for this object"
+13:21:52.72725 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:21:52.75625 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:21:52.76225 2020-07-06	input stopped walking You at (296.3, 0.1, 0.0)
+13:21:52.78782 2020-07-06	input started walking You at (296.3, 0.1, 0.0)
+13:21:52.81982 2020-07-06	input arrived You position Blacksmith.Anvil
+13:21:52.82382 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:21:53.19114 2020-07-06	input exited You position Blacksmith.Anvil
+13:21:53.19415 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:21:53.31514 2020-07-06	input stopped walking You at (297.3, 0.1, -0.4)
+13:21:53.73214 2020-07-06	input arrived You at (297.3, 0.1, -0.4)
+13:21:54.58017 2020-07-06	input Wear Magic Immunity Armour
+13:21:54.62117 2020-07-06	started DisableInput()
+13:21:54.62518 2020-07-06	started FadeOut()
+13:21:54.66417 2020-07-06	succeeded DisableInput()
+13:21:55.66314 2020-07-06	succeeded FadeOut()
+13:21:55.69614 2020-07-06	started SetClothing(You, HeavyArmour)
+13:21:55.72813 2020-07-06	succeeded SetClothing(You, HeavyArmour)
+13:21:55.76914 2020-07-06	started EnableIcon(Attack, Sword, Emmilia, Kill, false)
+13:21:55.77414 2020-07-06	started EnableIcon(Attack, Sword, Fia the Deathseeker, Kill, false)
+13:21:55.78013 2020-07-06	started SetPosition(Fia the Deathseeker, Ruins.Altar)
+13:21:55.79513 2020-07-06	started FadeIn()
+13:21:55.79813 2020-07-06	started EnableInput()
+13:21:55.82813 2020-07-06	succeeded EnableIcon(Attack, Sword, Emmilia, Kill, false)
+13:21:55.83313 2020-07-06	succeeded EnableIcon(Attack, Sword, Fia the Deathseeker, Kill, false)
+13:21:55.83814 2020-07-06	succeeded EnableInput()
+13:21:56.36914 2020-07-06	succeeded SetPosition(Fia the Deathseeker, Ruins.Altar)
+13:21:56.79213 2020-07-06	succeeded FadeIn()
+13:21:58.21376 2020-07-06	input Talk Blind Blacksmith
+13:21:58.25476 2020-07-06	started SetLeft(You)
+13:21:58.26076 2020-07-06	started SetRight(Blind Blacksmith)
+13:21:58.26776 2020-07-06	started WalkTo(You, Blind Blacksmith)
+13:21:58.27276 2020-07-06	input started walking You at (297.3, 0.1, -0.4)
+13:21:58.27876 2020-07-06	input started walking You at (297.3, 0.1, -0.4)
+13:21:58.34276 2020-07-06	succeeded SetLeft(You)
+13:21:58.34676 2020-07-06	succeeded SetRight(Blind Blacksmith)
+13:21:58.35176 2020-07-06	input started walking You at (297.3, 0.1, -0.4)
+13:21:58.67576 2020-07-06	input arrived You position Blacksmith.Anvil.Top
+13:21:58.68076 2020-07-06	input arrived You position Blacksmith.Anvil
+13:21:59.23070 2020-07-06	input exited You position Blacksmith.Anvil.Top
+13:21:59.23570 2020-07-06	input exited You position Blacksmith.Anvil
+13:21:59.85570 2020-07-06	input arrived You at (294.0, 0.1, -0.7)
+13:21:59.91270 2020-07-06	input arrived You position Blind Blacksmith
+13:21:59.91870 2020-07-06	succeeded WalkTo(You, Blind Blacksmith)
+13:21:59.94970 2020-07-06	started SetDialog("What is it that you want? Hurry up! I don't have all day\n[leave|Never mind]\n[busy|He doesn't seem busy to me!]")
+13:21:59.98270 2020-07-06	succeeded SetDialog("What is it that you want? Hurry up! I don't have all day\n[leave|Never mind]\n[busy|He doesn't seem busy to me!]")
+13:22:00.02070 2020-07-06	started ShowDialog()
+13:22:00.08070 2020-07-06	succeeded ShowDialog()
+13:22:01.64870 2020-07-06	input Selected leave
+13:22:01.67970 2020-07-06	started HideDialog()
+13:22:01.68470 2020-07-06	started EnableInput()
+13:22:01.68770 2020-07-06	started StopSound()
+13:22:01.71270 2020-07-06	succeeded HideDialog()
+13:22:01.71670 2020-07-06	succeeded EnableInput()
+13:22:01.71970 2020-07-06	succeeded StopSound()
+13:22:01.87370 2020-07-06	input arrived You at (294.0, 0.1, -0.6)
+13:22:03.44897 2020-07-06	input Key Inventory
+13:22:03.50194 2020-07-06	started ClearList()
+13:22:03.56593 2020-07-06	succeeded ClearList()
+13:22:03.64794 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:22:03.65396 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:22:03.66094 2020-07-06	started ShowList(You, You)
+13:22:03.71394 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:22:03.71694 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:22:03.71994 2020-07-06	succeeded ShowList(You, You)
+13:22:05.69993 2020-07-06	input Touch Compass
+13:22:05.70594 2020-07-06	started DisableInput()
+13:22:05.75493 2020-07-06	succeeded DisableInput()
+13:22:05.84493 2020-07-06	started HideList()
+13:22:05.85094 2020-07-06	started FadeOut()
+13:22:05.89593 2020-07-06	succeeded HideList()
+13:22:06.94694 2020-07-06	succeeded FadeOut()
+13:22:07.02045 2020-07-06	started SetPosition(You, Courtyard.Fountain)
+13:22:07.48145 2020-07-06	input arrived You position Courtyard.Fountain
+13:22:07.48545 2020-07-06	input exited You position Blind Blacksmith
+13:22:07.62545 2020-07-06	input stopped walking You at (905.2, -3.3, -6.8)
+13:22:08.00845 2020-07-06	succeeded SetPosition(You, Courtyard.Fountain)
+13:22:08.05545 2020-07-06	started Face(You, Courtyard.Fountain)
+13:22:10.01824 2020-07-06	succeeded Face(You, Courtyard.Fountain)
+13:22:10.07624 2020-07-06	started FadeIn()
+13:22:11.14976 2020-07-06	succeeded FadeIn()
+13:22:11.19876 2020-07-06	started EnableInput()
+13:22:11.23576 2020-07-06	succeeded EnableInput()
+13:22:11.23876 2020-07-06	input arrived You at (905.2, -3.3, -6.8)
+13:22:15.07804 2020-07-06	input TravelRuins Courtyard.Horse
+13:22:15.08506 2020-07-06	started DisableInput()
+13:22:15.08904 2020-07-06	started FadeOut()
+13:22:15.12604 2020-07-06	succeeded DisableInput()
+13:22:16.13504 2020-07-06	succeeded FadeOut()
+13:22:16.18205 2020-07-06	started SetPosition(You, Ruins)
+13:22:16.57204 2020-07-06	input exited You position Courtyard.Fountain
+13:22:16.82604 2020-07-06	succeeded SetPosition(You, Ruins)
+13:22:16.84804 2020-07-06	started FadeIn()
+13:22:17.88018 2020-07-06	succeeded FadeIn()
+13:22:17.90918 2020-07-06	started EnableInput()
+13:22:17.93218 2020-07-06	succeeded EnableInput()
+13:22:17.93918 2020-07-06	input arrived You at (2378.9, 22.9, 37.7)
+13:22:20.95622 2020-07-06	input Attack Fia the Deathseeker
+13:22:20.99322 2020-07-06	started StopSound(Ruins)
+13:22:20.99822 2020-07-06	started PlaySound(danger1, Ruins)
+13:22:21.00322 2020-07-06	started WalkTo(You, Fia the Deathseeker)
+13:22:21.00822 2020-07-06	input started walking You at (2378.9, 22.9, 37.7)
+13:22:21.01522 2020-07-06	input started walking You at (2378.9, 22.9, 37.7)
+13:22:21.04422 2020-07-06	succeeded StopSound(Ruins)
+13:22:21.04822 2020-07-06	succeeded PlaySound(danger1, Ruins)
+13:22:21.05222 2020-07-06	input started walking You at (2379.2, 22.9, 38.1)
+13:22:23.01322 2020-07-06	input arrived You at (2384.7, 24.5, 37.9)
+13:22:23.11322 2020-07-06	input arrived You position Fia the Deathseeker
+13:22:23.12222 2020-07-06	succeeded WalkTo(You, Fia the Deathseeker)
+13:22:23.15922 2020-07-06	started DisableInput()
+13:22:23.16522 2020-07-06	started Draw(You, A Sturdy Sword)
+13:22:23.20422 2020-07-06	succeeded DisableInput()
+13:22:23.84015 2020-07-06	input exited You position Fia the Deathseeker
+13:22:24.69316 2020-07-06	input arrived You position Fia the Deathseeker
+13:22:24.83917 2020-07-06	succeeded Draw(You, A Sturdy Sword)
+13:22:24.87615 2020-07-06	started Attack(You, Fia the Deathseeker)
+13:22:25.01261 2020-07-06	input started walking You at (2384.8, 24.5, 37.9)
+13:22:25.01961 2020-07-06	input stopped walking You at (2384.8, 24.5, 37.9)
+13:22:25.05460 2020-07-06	input started walking You at (2385.1, 24.5, 38.2)
+13:22:27.55408 2020-07-06	input exited You position Fia the Deathseeker
+13:22:27.81809 2020-07-06	input arrived You position Fia the Deathseeker
+13:22:27.87608 2020-07-06	input exited You position Fia the Deathseeker
+13:22:27.90408 2020-07-06	input arrived You position Fia the Deathseeker
+13:22:28.23109 2020-07-06	input exited You position Fia the Deathseeker
+13:22:28.78808 2020-07-06	input arrived You position Fia the Deathseeker
+13:22:29.19708 2020-07-06	succeeded Attack(You, Fia the Deathseeker)
+13:22:29.23808 2020-07-06	started Sheathe(You, A Sturdy Sword)
+13:22:29.25008 2020-07-06	started SetExpression(Fia the Deathseeker, scared)
+13:22:29.25508 2020-07-06	started Die(Fia the Deathseeker)
+13:22:29.29108 2020-07-06	succeeded SetExpression(Fia the Deathseeker, scared)
+13:22:30.21814 2020-07-06	succeeded Sheathe(You, A Sturdy Sword)
+13:22:34.34119 2020-07-06	succeeded Die(Fia the Deathseeker)
+13:22:34.39119 2020-07-06	started SetExpression(Fia the Deathseeker, asleep)
+13:22:34.39718 2020-07-06	started DisableIcon(Talk, Fia the Deathseeker)
+13:22:34.40219 2020-07-06	started DisableIcon(Attack, Fia the Deathseeker)
+13:22:34.40818 2020-07-06	started SetLeft(You)
+13:22:34.41518 2020-07-06	started SetRight(Fia the Deathseeker)
+13:22:34.42318 2020-07-06	started WalkTo(You, Fia the Deathseeker)
+13:22:34.47219 2020-07-06	succeeded SetExpression(Fia the Deathseeker, asleep)
+13:22:34.47819 2020-07-06	succeeded DisableIcon(Talk, Fia the Deathseeker)
+13:22:34.48619 2020-07-06	succeeded DisableIcon(Attack, Fia the Deathseeker)
+13:22:34.49418 2020-07-06	succeeded SetLeft(You)
+13:22:34.50018 2020-07-06	succeeded SetRight(Fia the Deathseeker)
+13:22:34.50618 2020-07-06	succeeded WalkTo(You, Fia the Deathseeker)
+13:22:34.58919 2020-07-06	started SetDialog("I just hope you didn't make this choice lightly, young one...and that it won't leave you with regret.\n[necroAttacked|Leave]")
+13:22:34.67618 2020-07-06	succeeded SetDialog("I just hope you didn't make this choice lightly, young one...and that it won't leave you with regret.\n[necroAttacked|Leave]")
+13:22:34.72219 2020-07-06	started ShowDialog()
+13:22:34.72871 2020-07-06	started EnableInput()
+13:22:34.73371 2020-07-06	started StopSound()
+13:22:34.79771 2020-07-06	succeeded ShowDialog()
+13:22:34.80171 2020-07-06	succeeded EnableInput()
+13:22:34.80571 2020-07-06	succeeded StopSound()
+13:22:40.25800 2020-07-06	input Selected necroAttacked
+13:22:40.30000 2020-07-06	started HideDialog()
+13:22:40.30500 2020-07-06	started EnableInput()
+13:22:40.31000 2020-07-06	started StopSound()
+13:22:40.31300 2020-07-06	started SetNarration(I'd better get out of there!)
+13:22:40.31599 2020-07-06	started ShowNarration()
+13:22:40.31900 2020-07-06	started FadeOut()
+13:22:40.35000 2020-07-06	succeeded HideDialog()
+13:22:40.35500 2020-07-06	succeeded EnableInput()
+13:22:40.36000 2020-07-06	succeeded StopSound()
+13:22:40.36399 2020-07-06	succeeded SetNarration(I'd better get out of there!)
+13:22:40.36700 2020-07-06	succeeded ShowNarration()
+13:22:41.34000 2020-07-06	succeeded FadeOut()
+13:22:41.37700 2020-07-06	started SetPosition(You, SpookyPath)
+13:22:41.61701 2020-07-06	input exited You position Fia the Deathseeker
+13:22:41.78801 2020-07-06	input stopped walking You at (2098.0, 0.1, 1.4)
+13:22:42.12901 2020-07-06	succeeded SetPosition(You, SpookyPath)
+13:22:42.20501 2020-07-06	started FadeIn()
+13:22:43.05801 2020-07-06	input Close Narration
+13:22:43.27401 2020-07-06	succeeded FadeIn()
+13:22:43.89154 2020-07-06	input Close Narration
+13:22:43.92754 2020-07-06	started HideNarration()
+13:22:43.95854 2020-07-06	succeeded HideNarration()
+13:22:43.96354 2020-07-06	input arrived You at (2098.0, 0.1, 1.4)
+13:22:44.99854 2020-07-06	input Key Inventory
+13:22:45.03553 2020-07-06	started ClearList()
+13:22:45.06854 2020-07-06	succeeded ClearList()
+13:22:45.11354 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:22:45.11854 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:22:45.12954 2020-07-06	started ShowList(You, You)
+13:22:45.18053 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:22:45.18353 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:22:45.18754 2020-07-06	succeeded ShowList(You, You)
+13:22:47.29406 2020-07-06	input Touch Compass
+13:22:47.30706 2020-07-06	started DisableInput()
+13:22:47.35806 2020-07-06	succeeded DisableInput()
+13:22:47.42306 2020-07-06	started HideList()
+13:22:47.43706 2020-07-06	started FadeOut()
+13:22:47.49006 2020-07-06	succeeded HideList()
+13:22:48.45745 2020-07-06	succeeded FadeOut()
+13:22:48.50045 2020-07-06	started SetPosition(You, Courtyard.Fountain)
+13:22:48.79345 2020-07-06	input arrived You position Courtyard.Fountain
+13:22:49.49045 2020-07-06	succeeded SetPosition(You, Courtyard.Fountain)
+13:22:49.54145 2020-07-06	started Face(You, Courtyard.Fountain)
+13:22:50.77448 2020-07-06	succeeded Face(You, Courtyard.Fountain)
+13:22:50.87248 2020-07-06	started FadeIn()
+13:22:51.91099 2020-07-06	succeeded FadeIn()
+13:22:51.95399 2020-07-06	started EnableInput()
+13:22:52.01799 2020-07-06	succeeded EnableInput()
+13:22:52.02200 2020-07-06	input arrived You at (905.2, -3.3, -6.8)
+13:22:56.56157 2020-07-06	input TravelLibrary Courtyard.Horse
+13:22:56.56956 2020-07-06	started DisableInput()
+13:22:56.57256 2020-07-06	started FadeOut()
+13:22:56.60956 2020-07-06	succeeded DisableInput()
+13:22:57.63256 2020-07-06	succeeded FadeOut()
+13:22:57.67657 2020-07-06	started SetPosition(You, Library)
+13:22:58.08256 2020-07-06	input arrived You position Emmilia
+13:22:58.08756 2020-07-06	input exited You position Courtyard.Fountain
+13:22:58.37156 2020-07-06	succeeded SetPosition(You, Library)
+13:22:58.42356 2020-07-06	started FadeIn()
+13:22:59.47257 2020-07-06	succeeded FadeIn()
+13:22:59.50356 2020-07-06	started EnableInput()
+13:22:59.52956 2020-07-06	succeeded EnableInput()
+13:22:59.53356 2020-07-06	input arrived You at (1801.9, -5.7, 7.4)
+13:23:00.81557 2020-07-06	input Talk Emmilia
+13:23:00.84256 2020-07-06	started SetLeft(You)
+13:23:00.84756 2020-07-06	started SetRight(Emmilia)
+13:23:00.85356 2020-07-06	started WalkTo(You, Emmilia)
+13:23:00.87956 2020-07-06	succeeded SetLeft(You)
+13:23:00.88356 2020-07-06	succeeded SetRight(Emmilia)
+13:23:00.88756 2020-07-06	succeeded WalkTo(You, Emmilia)
+13:23:00.91756 2020-07-06	started SetDialog("I deserve to rule this kingdom. \"WE deserve to rule this kingdom.\" They called me mad! \"Mad witch!\" Shut up! I have had enough. Oh! you're still here. Good! It's time to put those two unwitting gouls out of their misery\n(You need Alchemy skill of 3 or higher to proceed)\n[leave|Leave]")
+13:23:00.94256 2020-07-06	succeeded SetDialog("I deserve to rule this kingdom. \"WE deserve to rule this kingdom.\" They called me mad! \"Mad witch!\" Shut up! I have had enough. Oh! you're still here. Good! It's time to put those two unwitting gouls out of their misery\n(You need Alchemy skill of 3 or higher to proceed)\n[leave|Leave]")
+13:23:00.96856 2020-07-06	started ShowDialog()
+13:23:01.01656 2020-07-06	succeeded ShowDialog()
+13:23:02.42456 2020-07-06	input Selected leave
+13:23:02.45457 2020-07-06	started HideDialog()
+13:23:02.46057 2020-07-06	started EnableInput()
+13:23:02.46456 2020-07-06	started StopSound()
+13:23:02.48756 2020-07-06	succeeded HideDialog()
+13:23:02.49157 2020-07-06	succeeded EnableInput()
+13:23:02.49556 2020-07-06	succeeded StopSound()
+13:23:04.47009 2020-07-06	input started walking You at (1801.9, -5.7, 7.4)
+13:23:04.49409 2020-07-06	input started walking You at (1801.9, -5.7, 7.4)
+13:23:04.97609 2020-07-06	input exited You position Emmilia
+13:23:05.04910 2020-07-06	input stopped walking You at (1802.8, -5.7, 6.7)
+13:23:06.53634 2020-07-06	input arrived You at (1802.8, -5.7, 6.7)
+13:23:07.62689 2020-07-06	input Attack Emmilia
+13:23:07.67989 2020-07-06	started StopSound(Library)
+13:23:07.68389 2020-07-06	started PlaySound(danger1, Library)
+13:23:07.69089 2020-07-06	started WalkTo(You, Emmilia)
+13:23:07.69589 2020-07-06	input started walking You at (1802.8, -5.7, 6.7)
+13:23:07.70089 2020-07-06	input started walking You at (1802.8, -5.7, 6.7)
+13:23:07.76094 2020-07-06	succeeded StopSound(Library)
+13:23:07.76394 2020-07-06	succeeded PlaySound(danger1, Library)
+13:23:07.76894 2020-07-06	input started walking You at (1802.8, -5.7, 6.7)
+13:23:08.18194 2020-07-06	input arrived You position Emmilia
+13:23:08.18694 2020-07-06	succeeded WalkTo(You, Emmilia)
+13:23:08.25595 2020-07-06	started DisableInput()
+13:23:08.25994 2020-07-06	started Draw(You, A Sturdy Sword)
+13:23:08.34694 2020-07-06	succeeded DisableInput()
+13:23:09.16054 2020-07-06	input exited You position Emmilia
+13:23:09.84054 2020-07-06	input arrived You position Emmilia
+13:23:10.33855 2020-07-06	succeeded Draw(You, A Sturdy Sword)
+13:23:10.43154 2020-07-06	started Attack(You, Emmilia)
+13:23:10.67655 2020-07-06	input started walking You at (1802.1, -5.7, 6.8)
+13:23:10.68255 2020-07-06	input stopped walking You at (1802.1, -5.7, 6.8)
+13:23:10.73555 2020-07-06	input started walking You at (1802.2, -5.7, 6.3)
+13:23:10.79256 2020-07-06	input exited You position Emmilia
+13:23:11.12554 2020-07-06	input arrived You position Emmilia
+13:23:12.04459 2020-07-06	input exited You position Emmilia
+13:23:12.49210 2020-07-06	input arrived You position Emmilia
+13:23:12.52310 2020-07-06	input exited You position Emmilia
+13:23:13.45410 2020-07-06	input arrived You position Emmilia
+13:23:13.77111 2020-07-06	succeeded Attack(You, Emmilia)
+13:23:13.80510 2020-07-06	started Sheathe(You, A Sturdy Sword)
+13:23:13.81210 2020-07-06	started SetExpression(Emmilia, scared)
+13:23:13.81610 2020-07-06	started Die(Emmilia)
+13:23:13.84510 2020-07-06	succeeded SetExpression(Emmilia, scared)
+13:23:14.61910 2020-07-06	input exited You position Emmilia
+13:23:14.78010 2020-07-06	succeeded Sheathe(You, A Sturdy Sword)
+13:23:14.85510 2020-07-06	input arrived You position Emmilia
+13:23:18.82762 2020-07-06	succeeded Die(Emmilia)
+13:23:18.86362 2020-07-06	started SetExpression(Emmilia, asleep)
+13:23:18.86662 2020-07-06	started DisableIcon(Talk, Emmilia)
+13:23:18.87062 2020-07-06	started DisableIcon(Attack, Emmilia)
+13:23:18.87562 2020-07-06	started SetLeft(You)
+13:23:18.88162 2020-07-06	started SetRight(Emmilia)
+13:23:18.88862 2020-07-06	started WalkTo(You, Emmilia)
+13:23:18.89362 2020-07-06	input started walking You at (1802.0, -5.7, 6.7)
+13:23:18.89862 2020-07-06	input started walking You at (1802.0, -5.7, 6.7)
+13:23:18.93462 2020-07-06	succeeded SetExpression(Emmilia, asleep)
+13:23:18.93862 2020-07-06	succeeded DisableIcon(Talk, Emmilia)
+13:23:18.94262 2020-07-06	succeeded DisableIcon(Attack, Emmilia)
+13:23:18.94561 2020-07-06	succeeded SetLeft(You)
+13:23:18.94862 2020-07-06	succeeded SetRight(Emmilia)
+13:23:18.95262 2020-07-06	input started walking You at (1802.0, -5.7, 6.3)
+13:23:18.95662 2020-07-06	input stopped walking You at (1802.0, -5.7, 6.3)
+13:23:18.98162 2020-07-06	input exited You position Emmilia
+13:23:18.98862 2020-07-06	input started walking You at (1802.0, -5.7, 6.3)
+13:23:19.28562 2020-07-06	input arrived You position Emmilia
+13:23:19.29462 2020-07-06	succeeded WalkTo(You, Emmilia)
+13:23:19.32462 2020-07-06	started SetDialog("Why me? \"Why us?\" What did I ever do to you?\n[emAttached|Leave]")
+13:23:19.35762 2020-07-06	succeeded SetDialog("Why me? \"Why us?\" What did I ever do to you?\n[emAttached|Leave]")
+13:23:19.38962 2020-07-06	started ShowDialog()
+13:23:19.42762 2020-07-06	succeeded ShowDialog()
+13:23:21.91763 2020-07-06	input Selected emAttached
+13:23:21.95762 2020-07-06	started HideDialog()
+13:23:21.96162 2020-07-06	started EnableInput()
+13:23:21.96562 2020-07-06	started StopSound()
+13:23:21.96961 2020-07-06	started SetNarration(I'd better get out of there!)
+13:23:21.97262 2020-07-06	started ShowNarration()
+13:23:21.97662 2020-07-06	started FadeOut()
+13:23:22.00662 2020-07-06	succeeded HideDialog()
+13:23:22.01062 2020-07-06	succeeded EnableInput()
+13:23:22.01462 2020-07-06	succeeded StopSound()
+13:23:22.01862 2020-07-06	succeeded SetNarration(I'd better get out of there!)
+13:23:22.02262 2020-07-06	succeeded ShowNarration()
+13:23:22.98962 2020-07-06	succeeded FadeOut()
+13:23:23.01561 2020-07-06	input exited You position Emmilia
+13:23:23.02362 2020-07-06	started SetPosition(You, CastleCrossroads)
+13:23:23.56964 2020-07-06	succeeded SetPosition(You, CastleCrossroads)
+13:23:23.59762 2020-07-06	started FadeIn()
+13:23:23.68861 2020-07-06	input Close Narration
+13:23:24.61962 2020-07-06	succeeded FadeIn()
+13:23:24.68462 2020-07-06	input Close Narration
+13:23:24.71437 2020-07-06	started HideNarration()
+13:23:24.73837 2020-07-06	succeeded HideNarration()
+13:23:24.74237 2020-07-06	input arrived You at (-1193.3, 0.1, -7.0)
+13:23:26.49398 2020-07-06	input Key Inventory
+13:23:26.51998 2020-07-06	started ClearList()
+13:23:26.54298 2020-07-06	succeeded ClearList()
+13:23:26.57398 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:26.57998 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:26.58698 2020-07-06	started ShowList(You, You)
+13:23:26.62598 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:26.62898 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:26.63098 2020-07-06	succeeded ShowList(You, You)
+13:23:28.71099 2020-07-06	input Touch Compass
+13:23:28.73298 2020-07-06	started DisableInput()
+13:23:28.75798 2020-07-06	succeeded DisableInput()
+13:23:28.78398 2020-07-06	started HideList()
+13:23:28.79098 2020-07-06	started FadeOut()
+13:23:28.81198 2020-07-06	succeeded HideList()
+13:23:29.81198 2020-07-06	succeeded FadeOut()
+13:23:29.83398 2020-07-06	started SetPosition(You, Courtyard.Fountain)
+13:23:30.00998 2020-07-06	input arrived You position Courtyard.Fountain
+13:23:30.18498 2020-07-06	input stopped walking You at (905.2, -3.3, -6.8)
+13:23:30.60098 2020-07-06	succeeded SetPosition(You, Courtyard.Fountain)
+13:23:30.64098 2020-07-06	started Face(You, Courtyard.Fountain)
+13:23:32.60851 2020-07-06	succeeded Face(You, Courtyard.Fountain)
+13:23:32.64751 2020-07-06	started FadeIn()
+13:23:33.72950 2020-07-06	succeeded FadeIn()
+13:23:33.77550 2020-07-06	started EnableInput()
+13:23:33.81650 2020-07-06	succeeded EnableInput()
+13:23:33.82051 2020-07-06	input arrived You at (905.2, -3.3, -6.8)
+13:23:40.80066 2020-07-06	input TravelLibrary Courtyard.Horse
+13:23:40.80866 2020-07-06	started DisableInput()
+13:23:40.81266 2020-07-06	started FadeOut()
+13:23:40.84866 2020-07-06	succeeded DisableInput()
+13:23:41.89418 2020-07-06	succeeded FadeOut()
+13:23:41.94618 2020-07-06	started SetPosition(You, Library)
+13:23:42.32764 2020-07-06	input arrived You position Emmilia
+13:23:42.33364 2020-07-06	input exited You position Courtyard.Fountain
+13:23:42.67364 2020-07-06	succeeded SetPosition(You, Library)
+13:23:42.69764 2020-07-06	started FadeIn()
+13:23:43.73076 2020-07-06	succeeded FadeIn()
+13:23:43.76177 2020-07-06	started EnableInput()
+13:23:43.78875 2020-07-06	succeeded EnableInput()
+13:23:43.79376 2020-07-06	input arrived You at (1801.9, -5.7, 7.4)
+13:23:45.31728 2020-07-06	input Key Inventory
+13:23:45.34327 2020-07-06	started ClearList()
+13:23:45.36728 2020-07-06	succeeded ClearList()
+13:23:45.40027 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:45.40927 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:45.42527 2020-07-06	started ShowList(You, You)
+13:23:45.46980 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:45.47279 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:45.47679 2020-07-06	succeeded ShowList(You, You)
+13:23:51.44127 2020-07-06	input Close List
+13:23:51.47927 2020-07-06	started HideList()
+13:23:51.51828 2020-07-06	succeeded HideList()
+13:23:53.22615 2020-07-06	input started walking You at (1801.9, -5.7, 7.4)
+13:23:53.25014 2020-07-06	input started walking You at (1801.9, -5.7, 7.4)
+13:23:53.54115 2020-07-06	input arrived You at (1802.0, -5.7, 7.0)
+13:23:53.68015 2020-07-06	input exited You position Emmilia
+13:23:53.79316 2020-07-06	input stopped walking You at (1802.2, -5.7, 6.4)
+13:23:55.56915 2020-07-06	input arrived You at (1802.2, -5.7, 6.4)
+13:23:58.35666 2020-07-06	input Key Inventory
+13:23:58.38667 2020-07-06	started ClearList()
+13:23:58.43766 2020-07-06	succeeded ClearList()
+13:23:58.47966 2020-07-06	started AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:58.48866 2020-07-06	started AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:58.50066 2020-07-06	started ShowList(You, You)
+13:23:58.55066 2020-07-06	succeeded AddToList(A Sturdy Sword, A broadsword to cut down all the foes...well, some of them)
+13:23:58.55566 2020-07-06	succeeded AddToList(Compass, A broken compass. I sense a very quiet sound that resembles floating water)
+13:23:58.56166 2020-07-06	succeeded ShowList(You, You)
+13:24:00.99067 2020-07-06	input Touch Compass
+13:24:01.02366 2020-07-06	started DisableInput()
+13:24:01.05570 2020-07-06	succeeded DisableInput()
+13:24:01.08970 2020-07-06	started HideList()
+13:24:01.09770 2020-07-06	started FadeOut()
+13:24:01.12670 2020-07-06	succeeded HideList()
+13:24:02.12364 2020-07-06	succeeded FadeOut()
+13:24:02.15764 2020-07-06	started SetPosition(You, Courtyard.Fountain)
+13:24:02.41164 2020-07-06	input arrived You position Courtyard.Fountain
+13:24:03.10864 2020-07-06	succeeded SetPosition(You, Courtyard.Fountain)
+13:24:03.16664 2020-07-06	started Face(You, Courtyard.Fountain)
+13:24:04.15670 2020-07-06	succeeded Face(You, Courtyard.Fountain)
+13:24:04.20470 2020-07-06	started FadeIn()
+13:24:05.26370 2020-07-06	succeeded FadeIn()
+13:24:05.30870 2020-07-06	started EnableInput()
+13:24:05.34770 2020-07-06	succeeded EnableInput()
+13:24:05.35170 2020-07-06	input arrived You at (905.2, -3.3, -6.8)
+13:24:09.57331 2020-07-06	input TravelGreatHall Courtyard.Horse
+13:24:09.58232 2020-07-06	started DisableInput()
+13:24:09.58733 2020-07-06	started FadeOut()
+13:24:09.62544 2020-07-06	succeeded DisableInput()
+13:24:10.63829 2020-07-06	succeeded FadeOut()
+13:24:10.68929 2020-07-06	started SetPosition(You, GreatHall)
+13:24:11.01708 2020-07-06	input exited You position Courtyard.Fountain
+13:24:11.28608 2020-07-06	succeeded SetPosition(You, GreatHall)
+13:24:11.32208 2020-07-06	started FadeIn()
+13:24:12.35953 2020-07-06	succeeded FadeIn()
+13:24:12.39753 2020-07-06	started EnableInput()
+13:24:12.42953 2020-07-06	succeeded EnableInput()
+13:24:12.45153 2020-07-06	input arrived You at (585.3, 2.7, -9.2)
+13:24:13.17409 2020-07-06	input started walking You at (585.3, 2.7, -9.2)
+13:24:13.21909 2020-07-06	input started walking You at (585.7, 2.7, -9.2)
+13:24:14.45539 2020-07-06	input arrived You at (582.1, 2.7, -9.2)
+13:24:16.47057 2020-07-06	input arrived You at (577.9, 2.7, -10.5)
+13:24:18.47460 2020-07-06	input arrived You at (577.0, 6.4, -5.1)
+13:24:20.47832 2020-07-06	input arrived You at (580.4, 7.6, 0.2)
+13:24:20.52332 2020-07-06	input arrived You position GreatHall.LeftSupplicant
+13:24:20.62732 2020-07-06	input exited You position GreatHall.LeftSupplicant
+13:24:20.67332 2020-07-06	input arrived You position GreatHall.LeftSupplicant
+13:24:20.90532 2020-07-06	input exited You position GreatHall.LeftSupplicant
+13:24:21.58231 2020-07-06	input arrived You position GreatHall.Supplicant
+13:24:21.69036 2020-07-06	input exited You position GreatHall.Supplicant
+13:24:22.05236 2020-07-06	input stopped walking You at (585.0, 7.6, 2.1)
+13:24:22.48588 2020-07-06	input arrived You at (585.0, 7.6, 2.1)
+13:24:22.56589 2020-07-06	input Talk Lionheart The Just
+13:24:22.59289 2020-07-06	started SetLeft(You)
+13:24:22.60488 2020-07-06	started SetRight(Lionheart The Just)
+13:24:22.60988 2020-07-06	started WalkTo(You, Lionheart The Just)
+13:24:22.61488 2020-07-06	input started walking You at (585.0, 7.6, 2.1)
+13:24:22.61988 2020-07-06	input started walking You at (585.0, 7.6, 2.1)
+13:24:22.66488 2020-07-06	succeeded SetLeft(You)
+13:24:22.66788 2020-07-06	succeeded SetRight(Lionheart The Just)
+13:24:22.67188 2020-07-06	input started walking You at (585.0, 7.6, 2.1)
+13:24:23.53888 2020-07-06	input arrived You position Lionheart The Just
+13:24:23.54488 2020-07-06	succeeded WalkTo(You, Lionheart The Just)
+13:24:23.58088 2020-07-06	started SetDialog("Valiant defender of the realms. My people and I are forever in your debt. Come! Sit next to me where you belong! We shall rule this kingdom in exchange for limitless wealth and fortune!\n[lionheartEnd|Pledge]\n[leave|Leave]")
+13:24:23.60691 2020-07-06	succeeded SetDialog("Valiant defender of the realms. My people and I are forever in your debt. Come! Sit next to me where you belong! We shall rule this kingdom in exchange for limitless wealth and fortune!\n[lionheartEnd|Pledge]\n[leave|Leave]")
+13:24:23.63189 2020-07-06	started ShowDialog()
+13:24:23.65888 2020-07-06	succeeded ShowDialog()
+13:24:24.78690 2020-07-06	input Selected lionheartEnd
+13:24:24.82290 2020-07-06	started DisableInput()
+13:24:24.82688 2020-07-06	started StopSound(GreatHall)
+13:24:24.83088 2020-07-06	started HideDialog()
+13:24:24.83488 2020-07-06	started EnableInput()
+13:24:24.83888 2020-07-06	started StopSound()
+13:24:24.84288 2020-07-06	started PlaySound(danger3)
+13:24:24.84788 2020-07-06	started FadeOut()
+13:24:24.87488 2020-07-06	succeeded DisableInput()
+13:24:24.87988 2020-07-06	succeeded StopSound(GreatHall)
+13:24:24.88388 2020-07-06	succeeded HideDialog()
+13:24:24.88788 2020-07-06	succeeded EnableInput()
+13:24:24.89188 2020-07-06	succeeded StopSound()
+13:24:24.89688 2020-07-06	succeeded PlaySound(danger3)
+13:24:24.90088 2020-07-06	input arrived You at (585.2, 8.0, 3.7)
+13:24:25.85188 2020-07-06	succeeded FadeOut()
+13:24:25.87788 2020-07-06	started SetCameraMode(track)
+13:24:25.88188 2020-07-06	started SetPosition(You, GreatHall.LeftThrone)
+13:24:25.90688 2020-07-06	succeeded SetCameraMode(track)
+13:24:26.07292 2020-07-06	input arrived You position GreatHall.LeftThrone
+13:24:26.07692 2020-07-06	input exited You position Lionheart The Just
+13:24:26.16392 2020-07-06	input stopped walking You at (582.8, 8.4, 4.4)
+13:24:26.39692 2020-07-06	succeeded SetPosition(You, GreatHall.LeftThrone)
+13:24:26.43992 2020-07-06	started CreateItem(g1, GoldCup)
+13:24:26.48492 2020-07-06	succeeded CreateItem(g1, GoldCup)
+13:24:26.52092 2020-07-06	started CreateItem(g2, GoldCup)
+13:24:26.55893 2020-07-06	succeeded CreateItem(g2, GoldCup)
+13:24:26.58692 2020-07-06	started Unpocket(You, g1)
+13:24:26.89292 2020-07-06	input arrived You at (582.8, 8.4, 4.4)
+13:24:27.53192 2020-07-06	succeeded Unpocket(You, g1)
+13:24:27.56292 2020-07-06	started Unpocket(Lionheart The Just, g2)
+13:24:28.54145 2020-07-06	succeeded Unpocket(Lionheart The Just, g2)
+13:24:28.58645 2020-07-06	started FadeIn()
+13:24:29.62396 2020-07-06	succeeded FadeIn()
+13:24:34.63303 2020-07-06	started SetNarration(You united the kingdom and chose to pledge allegiance to Lionheart The Just)
+13:24:34.63603 2020-07-06	started ShowNarration()
+13:24:34.66603 2020-07-06	succeeded SetNarration(You united the kingdom and chose to pledge allegiance to Lionheart The Just)
+13:24:34.67002 2020-07-06	succeeded ShowNarration()
+13:24:35.92594 2020-07-06	input Close Narration
+13:24:35.95794 2020-07-06	started Quit()
+13:24:36.01953 2020-07-06	succeeded Quit()
+13:24:36.02452 2020-07-06	END GAME
